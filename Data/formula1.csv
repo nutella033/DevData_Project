@@ -1,0 +1,1393 @@
+Pos,No,Driver,Team,Laps,Time,Grid,Pts,Season,Race,RaceNo
+1,8,Fernando Alonso,Ferrari,49,1:39:20.396,3,25,2010,Bahrain,1
+2,7,Felipe Massa,Ferrari,49,+16.0 secs,2,18,2010,Bahrain,1
+3,2,Lewis Hamilton,McLaren-Mercedes,49,+23.1 secs,4,15,2010,Bahrain,1
+4,5,Sebastian Vettel,RBR-Renault,49,+38.7 secs,1,12,2010,Bahrain,1
+5,4,Nico Rosberg,Mercedes GP,49,+40.2 secs,5,10,2010,Bahrain,1
+6,3,Michael Schumacher,Mercedes GP,49,+44.1 secs,7,8,2010,Bahrain,1
+7,1,Jenson Button,McLaren-Mercedes,49,+45.2 secs,8,6,2010,Bahrain,1
+8,6,Mark Webber,RBR-Renault,49,+46.3 secs,6,4,2010,Bahrain,1
+9,15,Vitantonio Liuzzi,Force India-Mercedes,49,+53.0 secs,12,2,2010,Bahrain,1
+10,9,Rubens Barrichello,Williams-Cosworth,49,+62.4 secs,11,1,2010,Bahrain,1
+11,11,Robert Kubica,Renault,49,+69.0 secs,9,0,2010,Bahrain,1
+12,14,Adrian Sutil,Force India-Mercedes,49,+82.9 secs,10,0,2010,Bahrain,1
+13,17,Jaime Alguersuari,STR-Ferrari,49,+92.6 secs,18,0,2010,Bahrain,1
+14,10,Nico Hulkenberg,Williams-Cosworth,48,+1 Lap,13,0,2010,Bahrain,1
+15,19,Heikki Kovalainen,Lotus-Cosworth,47,+2 Laps,21,0,2010,Bahrain,1
+16,16,Sebastien Buemi,STR-Ferrari,46,+3 Laps,15,0,2010,Bahrain,1
+17,18,Jarno Trulli,Lotus-Cosworth,46,Hydraulics,20,0,2010,Bahrain,1
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,28,Hydraulics,14,0,2010,Bahrain,1
+Ret,21,Bruno Senna,HRT-Cosworth,17,Mechanical,23,0,2010,Bahrain,1
+Ret,24,Timo Glock,Virgin-Cosworth,16,Gearbox,19,0,2010,Bahrain,1
+Ret,12,Vitaly Petrov,Renault,13,Suspension,17,0,2010,Bahrain,1
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,11,Hydraulics,16,0,2010,Bahrain,1
+Ret,25,Lucas di Grassi,Virgin-Cosworth,2,Hydraulics,22,0,2010,Bahrain,1
+Ret,20,Karun Chandhok,HRT-Cosworth,1,Accident,24,0,2010,Bahrain,1
+1,1,Jenson Button,McLaren-Mercedes,58,1:33:36.531,4,25,2010,Australia,2
+2,11,Robert Kubica,Renault,58,+12.0 secs,9,18,2010,Australia,2
+3,7,Felipe Massa,Ferrari,58,+14.4 secs,5,15,2010,Australia,2
+4,8,Fernando Alonso,Ferrari,58,+16.3 secs,3,12,2010,Australia,2
+5,4,Nico Rosberg,Mercedes GP,58,+16.6 secs,6,10,2010,Australia,2
+6,2,Lewis Hamilton,McLaren-Mercedes,58,+29.8 secs,11,8,2010,Australia,2
+7,15,Vitantonio Liuzzi,Force India-Mercedes,58,+59.8 secs,13,6,2010,Australia,2
+8,9,Rubens Barrichello,Williams-Cosworth,58,+60.5 secs,8,4,2010,Australia,2
+9,6,Mark Webber,RBR-Renault,58,+67.3 secs,2,2,2010,Australia,2
+10,3,Michael Schumacher,Mercedes GP,58,+69.3 secs,7,1,2010,Australia,2
+11,17,Jaime Alguersuari,STR-Ferrari,58,+71.3 secs,17,0,2010,Australia,2
+12,22,Pedro de la Rosa,BMW Sauber-Ferrari,58,+74.0 secs,14,0,2010,Australia,2
+13,19,Heikki Kovalainen,Lotus-Cosworth,56,+2 Laps,19,0,2010,Australia,2
+14,20,Karun Chandhok,HRT-Cosworth,53,+5 Laps,22,0,2010,Australia,2
+Ret,24,Timo Glock,Virgin-Cosworth,41,Suspension,23,0,2010,Australia,2
+Ret,25,Lucas di Grassi,Virgin-Cosworth,26,Hydraulics,24,0,2010,Australia,2
+Ret,5,Sebastian Vettel,RBR-Renault,25,Wheel issue,1,0,2010,Australia,2
+Ret,14,Adrian Sutil,Force India-Mercedes,9,Engine,10,0,2010,Australia,2
+Ret,12,Vitaly Petrov,Renault,9,Spin,18,0,2010,Australia,2
+Ret,21,Bruno Senna,HRT-Cosworth,4,Hydraulics,21,0,2010,Australia,2
+Ret,16,Sebastien Buemi,STR-Ferrari,0,Accident,12,0,2010,Australia,2
+Ret,10,Nico Hulkenberg,Williams-Cosworth,0,Accident,15,0,2010,Australia,2
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,0,Accident,16,0,2010,Australia,2
+Ret,18,Jarno Trulli,Lotus-Cosworth,0,Hydraulics,20,0,2010,Australia,2
+1,5,Sebastian Vettel,RBR-Renault,56,1:33:48.412,3,25,2010,Malaysia,3
+2,6,Mark Webber,RBR-Renault,56,+4.8 secs,1,18,2010,Malaysia,3
+3,4,Nico Rosberg,Mercedes GP,56,+13.5 secs,2,15,2010,Malaysia,3
+4,11,Robert Kubica,Renault,56,+18.5 secs,6,12,2010,Malaysia,3
+5,14,Adrian Sutil,Force India-Mercedes,56,+21.0 secs,4,10,2010,Malaysia,3
+6,2,Lewis Hamilton,McLaren-Mercedes,56,+23.4 secs,20,8,2010,Malaysia,3
+7,7,Felipe Massa,Ferrari,56,+27.0 secs,21,6,2010,Malaysia,3
+8,1,Jenson Button,McLaren-Mercedes,56,+37.9 secs,17,4,2010,Malaysia,3
+9,17,Jaime Alguersuari,STR-Ferrari,56,+70.6 secs,14,2,2010,Malaysia,3
+10,10,Nico Hulkenberg,Williams-Cosworth,56,+73.3 secs,5,1,2010,Malaysia,3
+11,16,Sebastien Buemi,STR-Ferrari,56,+78.9 secs,13,0,2010,Malaysia,3
+12,9,Rubens Barrichello,Williams-Cosworth,55,+1 Lap,7,0,2010,Malaysia,3
+13,8,Fernando Alonso,Ferrari,54,+2 Laps,19,0,2010,Malaysia,3
+14,25,Lucas di Grassi,Virgin-Cosworth,53,+3 Laps,24,0,2010,Malaysia,3
+15,20,Karun Chandhok,HRT-Cosworth,53,+3 Laps,22,0,2010,Malaysia,3
+16,21,Bruno Senna,HRT-Cosworth,52,+4 Laps,23,0,2010,Malaysia,3
+17,18,Jarno Trulli,Lotus-Cosworth,51,+5 Laps,18,0,2010,Malaysia,3
+DNS,22,Pedro de la Rosa,BMW Sauber-Ferrari,0,Engine,12,0,2010,Malaysia,3
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,46,Hydraulics,15,0,2010,Malaysia,3
+Ret,12,Vitaly Petrov,Renault,32,Gearbox,11,0,2010,Malaysia,3
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,12,Throttle,10,0,2010,Malaysia,3
+Ret,3,Michael Schumacher,Mercedes GP,9,Wheel issue,8,0,2010,Malaysia,3
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,8,Engine,9,0,2010,Malaysia,3
+Ret,24,Timo Glock,Virgin-Cosworth,2,Spin,16,0,2010,Malaysia,3
+1,1,Jenson Button,McLaren-Mercedes,56,1:46:42.163,5,25,2010,China,4
+2,2,Lewis Hamilton,McLaren-Mercedes,56,+1.5 secs,6,18,2010,China,4
+3,4,Nico Rosberg,Mercedes GP,56,+9.4 secs,4,15,2010,China,4
+4,8,Fernando Alonso,Ferrari,56,+11.8 secs,3,12,2010,China,4
+5,11,Robert Kubica,Renault,56,+22.2 secs,8,10,2010,China,4
+6,5,Sebastian Vettel,RBR-Renault,56,+33.3 secs,1,8,2010,China,4
+7,12,Vitaly Petrov,Renault,56,+47.6 secs,14,6,2010,China,4
+8,6,Mark Webber,RBR-Renault,56,+52.1 secs,2,4,2010,China,4
+9,7,Felipe Massa,Ferrari,56,+57.7 secs,7,2,2010,China,4
+10,3,Michael Schumacher,Mercedes GP,56,+61.7 secs,9,1,2010,China,4
+11,14,Adrian Sutil,Force India-Mercedes,56,+62.8 secs,10,0,2010,China,4
+12,9,Rubens Barrichello,Williams-Cosworth,56,+63.6 secs,11,0,2010,China,4
+13,17,Jaime Alguersuari,STR-Ferrari,56,+71.4 secs,12,0,2010,China,4
+14,19,Heikki Kovalainen,Lotus-Cosworth,55,+1 Lap,21,0,2010,China,4
+15,10,Nico Hulkenberg,Williams-Cosworth,55,+1 Lap,16,0,2010,China,4
+16,21,Bruno Senna,HRT-Cosworth,54,+2 Laps,23,0,2010,China,4
+17,20,Karun Chandhok,HRT-Cosworth,52,+4 Laps,24,0,2010,China,4
+Ret,18,Jarno Trulli,Lotus-Cosworth,26,Hydraulics,20,0,2010,China,4
+Ret,25,Lucas di Grassi,Virgin-Cosworth,8,Clutch,22,0,2010,China,4
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,7,Technical,17,0,2010,China,4
+Ret,16,Sebastien Buemi,STR-Ferrari,0,Accident,13,0,2010,China,4
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,0,Accident,15,0,2010,China,4
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,0,Accident,18,0,2010,China,4
+Ret,24,Timo Glock,Virgin-Cosworth,0,Engine,19,0,2010,China,4
+1,6,Mark Webber,RBR-Renault,66,1:35:44.101,1,25,2010,Spain,5
+2,8,Fernando Alonso,Ferrari,66,+24.0 secs,4,18,2010,Spain,5
+3,5,Sebastian Vettel,RBR-Renault,66,+51.3 secs,2,15,2010,Spain,5
+4,3,Michael Schumacher,Mercedes GP,66,+62.1 secs,6,12,2010,Spain,5
+5,1,Jenson Button,McLaren-Mercedes,66,+63.7 secs,5,10,2010,Spain,5
+6,7,Felipe Massa,Ferrari,66,+65.7 secs,9,8,2010,Spain,5
+7,14,Adrian Sutil,Force India-Mercedes,66,+72.9 secs,11,6,2010,Spain,5
+8,11,Robert Kubica,Renault,66,+73.6 secs,7,4,2010,Spain,5
+9,9,Rubens Barrichello,Williams-Cosworth,65,+1 Lap,17,2,2010,Spain,5
+10,17,Jaime Alguersuari,STR-Ferrari,65,+1 Lap,15,1,2010,Spain,5
+11,12,Vitaly Petrov,Renault,65,+1 Lap,19,0,2010,Spain,5
+12,23,Kamui Kobayashi,BMW Sauber-Ferrari,65,+1 Lap,10,0,2010,Spain,5
+13,4,Nico Rosberg,Mercedes GP,65,+1 Lap,8,0,2010,Spain,5
+14,2,Lewis Hamilton,McLaren-Mercedes,64,Accident,3,0,2010,Spain,5
+15,15,Vitantonio Liuzzi,Force India-Mercedes,64,Technical,16,0,2010,Spain,5
+16,10,Nico Hulkenberg,Williams-Cosworth,64,+2 Laps,13,0,2010,Spain,5
+17,18,Jarno Trulli,Lotus-Cosworth,63,+3 Laps,18,0,2010,Spain,5
+18,24,Timo Glock,Virgin-Cosworth,63,+3 Laps,22,0,2010,Spain,5
+19,25,Lucas di Grassi,Virgin-Cosworth,62,+4 Laps,23,0,2010,Spain,5
+Ret,16,Sebastien Buemi,STR-Ferrari,42,Hydraulics,14,0,2010,Spain,5
+Ret,20,Karun Chandhok,HRT-Cosworth,27,Suspension,24,0,2010,Spain,5
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,18,Accident damage,12,0,2010,Spain,5
+Ret,21,Bruno Senna,HRT-Cosworth,0,Accident,21,0,2010,Spain,5
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,0,Gearbox,20,0,2010,Spain,5
+1,6,Mark Webber,RBR-Renault,78,1:50:13.355,1,25,2010,Monaco,6
+2,5,Sebastian Vettel,RBR-Renault,78,+0.4 secs,3,18,2010,Monaco,6
+3,11,Robert Kubica,Renault,78,+1.6 secs,2,15,2010,Monaco,6
+4,7,Felipe Massa,Ferrari,78,+2.6 secs,4,12,2010,Monaco,6
+5,2,Lewis Hamilton,McLaren-Mercedes,78,+4.3 secs,5,10,2010,Monaco,6
+6,8,Fernando Alonso,Ferrari,78,+6.3 secs,24,8,2010,Monaco,6
+7,4,Nico Rosberg,Mercedes GP,78,+6.6 secs,6,6,2010,Monaco,6
+8,14,Adrian Sutil,Force India-Mercedes,78,+6.9 secs,12,4,2010,Monaco,6
+9,15,Vitantonio Liuzzi,Force India-Mercedes,78,+7.3 secs,10,2,2010,Monaco,6
+10,16,Sebastien Buemi,STR-Ferrari,78,+8.1 secs,13,1,2010,Monaco,6
+11,17,Jaime Alguersuari,STR-Ferrari,78,+9.1 secs,17,0,2010,Monaco,6
+12,3,Michael Schumacher,Mercedes GP,78,+25.7 secs,7,0,2010,Monaco,6
+13,12,Vitaly Petrov,Renault,73,Retired,14,0,2010,Monaco,6
+14,20,Karun Chandhok,HRT-Cosworth,70,Accident,23,0,2010,Monaco,6
+15,18,Jarno Trulli,Lotus-Cosworth,70,Accident,19,0,2010,Monaco,6
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,58,Steering,18,0,2010,Monaco,6
+Ret,21,Bruno Senna,HRT-Cosworth,58,Hydraulics,22,0,2010,Monaco,6
+Ret,9,Rubens Barrichello,Williams-Cosworth,30,Accident,9,0,2010,Monaco,6
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,26,Gearbox,16,0,2010,Monaco,6
+Ret,25,Lucas di Grassi,Virgin-Cosworth,25,Wheel problem,21,0,2010,Monaco,6
+Ret,24,Timo Glock,Virgin-Cosworth,22,Rear suspension,20,0,2010,Monaco,6
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,21,Hydraulics,15,0,2010,Monaco,6
+Ret,1,Jenson Button,McLaren-Mercedes,2,Engine,8,0,2010,Monaco,6
+Ret,10,Nico Hulkenberg,Williams-Cosworth,0,Accident,11,0,2010,Monaco,6
+1,2,Lewis Hamilton,McLaren-Mercedes,58,1:28:47.620,2,25,2010,Turkey,7
+2,1,Jenson Button,McLaren-Mercedes,58,+2.6 secs,4,18,2010,Turkey,7
+3,6,Mark Webber,RBR-Renault,58,+24.2 secs,1,15,2010,Turkey,7
+4,3,Michael Schumacher,Mercedes GP,58,+31.1 secs,5,12,2010,Turkey,7
+5,4,Nico Rosberg,Mercedes GP,58,+32.2 secs,6,10,2010,Turkey,7
+6,11,Robert Kubica,Renault,58,+32.8 secs,7,8,2010,Turkey,7
+7,7,Felipe Massa,Ferrari,58,+36.6 secs,8,6,2010,Turkey,7
+8,8,Fernando Alonso,Ferrari,58,+46.5 secs,12,4,2010,Turkey,7
+9,14,Adrian Sutil,Force India-Mercedes,58,+49.0 secs,11,2,2010,Turkey,7
+10,23,Kamui Kobayashi,BMW Sauber-Ferrari,58,+65.6 secs,10,1,2010,Turkey,7
+11,22,Pedro de la Rosa,BMW Sauber-Ferrari,58,+65.9 secs,13,0,2010,Turkey,7
+12,17,Jaime Alguersuari,STR-Ferrari,58,+67.8 secs,16,0,2010,Turkey,7
+13,15,Vitantonio Liuzzi,Force India-Mercedes,57,+1 Lap,18,0,2010,Turkey,7
+14,9,Rubens Barrichello,Williams-Cosworth,57,+1 Lap,15,0,2010,Turkey,7
+15,12,Vitaly Petrov,Renault,57,+1 Lap,9,0,2010,Turkey,7
+16,16,Sebastien Buemi,STR-Ferrari,57,+1 Lap,14,0,2010,Turkey,7
+17,10,Nico Hulkenberg,Williams-Cosworth,57,+1 Lap,17,0,2010,Turkey,7
+18,24,Timo Glock,Virgin-Cosworth,55,+3 Laps,21,0,2010,Turkey,7
+19,25,Lucas di Grassi,Virgin-Cosworth,55,+3 Laps,23,0,2010,Turkey,7
+20,20,Karun Chandhok,HRT-Cosworth,52,Fuel pump,24,0,2010,Turkey,7
+Ret,21,Bruno Senna,HRT-Cosworth,46,Fuel pressure,22,0,2010,Turkey,7
+Ret,5,Sebastian Vettel,RBR-Renault,39,Accident,3,0,2010,Turkey,7
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,33,Hydraulics,20,0,2010,Turkey,7
+Ret,18,Jarno Trulli,Lotus-Cosworth,32,Hydraulics,19,0,2010,Turkey,7
+1,2,Lewis Hamilton,McLaren-Mercedes,70,1:33:53.456,1,25,2010,Canada,8
+2,1,Jenson Button,McLaren-Mercedes,70,+2.2 secs,4,18,2010,Canada,8
+3,8,Fernando Alonso,Ferrari,70,+9.2 secs,3,15,2010,Canada,8
+4,5,Sebastian Vettel,RBR-Renault,70,+37.8 secs,2,12,2010,Canada,8
+5,6,Mark Webber,RBR-Renault,70,+39.2 secs,7,10,2010,Canada,8
+6,4,Nico Rosberg,Mercedes GP,70,+56.0 secs,10,8,2010,Canada,8
+7,11,Robert Kubica,Renault,70,+57.3 secs,8,6,2010,Canada,8
+8,16,Sebastien Buemi,STR-Ferrari,69,+1 Lap,15,4,2010,Canada,8
+9,15,Vitantonio Liuzzi,Force India-Mercedes,69,+1 Lap,5,2,2010,Canada,8
+10,14,Adrian Sutil,Force India-Mercedes,69,+1 Lap,9,1,2010,Canada,8
+11,3,Michael Schumacher,Mercedes GP,69,+1 Lap,13,0,2010,Canada,8
+12,17,Jaime Alguersuari,STR-Ferrari,69,+1 Lap,16,0,2010,Canada,8
+13,10,Nico Hulkenberg,Williams-Cosworth,69,+1 Lap,12,0,2010,Canada,8
+14,9,Rubens Barrichello,Williams-Cosworth,69,+1 Lap,11,0,2010,Canada,8
+15,7,Felipe Massa,Ferrari,69,+1 Lap,6,0,2010,Canada,8
+16,19,Heikki Kovalainen,Lotus-Cosworth,68,+2 Laps,19,0,2010,Canada,8
+17,12,Vitaly Petrov,Renault,68,+2 Laps,14,0,2010,Canada,8
+18,20,Karun Chandhok,HRT-Cosworth,66,+4 Laps,24,0,2010,Canada,8
+19,25,Lucas di Grassi,Virgin-Cosworth,65,+5 Laps,23,0,2010,Canada,8
+Ret,24,Timo Glock,Virgin-Cosworth,50,Steering,21,0,2010,Canada,8
+Ret,18,Jarno Trulli,Lotus-Cosworth,42,Brakes,20,0,2010,Canada,8
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,30,Engine,17,0,2010,Canada,8
+Ret,21,Bruno Senna,HRT-Cosworth,13,Gearbox,22,0,2010,Canada,8
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,1,Collision,18,0,2010,Canada,8
+1,5,Sebastian Vettel,RBR-Renault,57,1:40:29.571,1,25,2010,Europe,9
+2,2,Lewis Hamilton,McLaren-Mercedes,57,+5.0 secs,3,18,2010,Europe,9
+3,1,Jenson Button,McLaren-Mercedes,57,+12.6 secs,7,15,2010,Europe,9
+4,9,Rubens Barrichello,Williams-Cosworth,57,+25.6 secs,9,12,2010,Europe,9
+5,11,Robert Kubica,Renault,57,+27.1 secs,6,10,2010,Europe,9
+6,14,Adrian Sutil,Force India-Mercedes,57,+30.1 secs,13,8,2010,Europe,9
+7,23,Kamui Kobayashi,BMW Sauber-Ferrari,57,+30.9 secs,18,6,2010,Europe,9
+8,8,Fernando Alonso,Ferrari,57,+32.8 secs,4,4,2010,Europe,9
+9,16,Sebastien Buemi,STR-Ferrari,57,+36.2 secs,11,2,2010,Europe,9
+10,4,Nico Rosberg,Mercedes GP,57,+44.3 secs,12,1,2010,Europe,9
+11,7,Felipe Massa,Ferrari,57,+46.6 secs,5,0,2010,Europe,9
+12,22,Pedro de la Rosa,BMW Sauber-Ferrari,57,+47.4 secs,16,0,2010,Europe,9
+13,17,Jaime Alguersuari,STR-Ferrari,57,+48.2 secs,17,0,2010,Europe,9
+14,12,Vitaly Petrov,Renault,57,+48.2 secs,10,0,2010,Europe,9
+15,3,Michael Schumacher,Mercedes GP,57,+48.8 secs,15,0,2010,Europe,9
+16,15,Vitantonio Liuzzi,Force India-Mercedes,57,+50.8 secs,14,0,2010,Europe,9
+17,25,Lucas di Grassi,Virgin-Cosworth,56,+1 Lap,21,0,2010,Europe,9
+18,20,Karun Chandhok,HRT-Cosworth,55,+2 Laps,23,0,2010,Europe,9
+19,24,Timo Glock,Virgin-Cosworth,55,+2 Laps,22,0,2010,Europe,9
+20,21,Bruno Senna,HRT-Cosworth,55,+2 Laps,24,0,2010,Europe,9
+21,18,Jarno Trulli,Lotus-Cosworth,53,+4 Laps,19,0,2010,Europe,9
+Ret,10,Nico Hulkenberg,Williams-Cosworth,49,Exhaust,8,0,2010,Europe,9
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,8,Accident damage,20,0,2010,Europe,9
+Ret,6,Mark Webber,RBR-Renault,8,Accident,2,0,2010,Europe,9
+1,6,Mark Webber,RBR-Renault,52,1:24:38.200,2,25,2010,Britain,10
+2,2,Lewis Hamilton,McLaren-Mercedes,52,+1.3 secs,4,18,2010,Britain,10
+3,4,Nico Rosberg,Mercedes GP,52,+21.3 secs,5,15,2010,Britain,10
+4,1,Jenson Button,McLaren-Mercedes,52,+21.9 secs,14,12,2010,Britain,10
+5,9,Rubens Barrichello,Williams-Cosworth,52,+31.4 secs,8,10,2010,Britain,10
+6,23,Kamui Kobayashi,BMW Sauber-Ferrari,52,+32.1 secs,12,8,2010,Britain,10
+7,5,Sebastian Vettel,RBR-Renault,52,+36.7 secs,1,6,2010,Britain,10
+8,14,Adrian Sutil,Force India-Mercedes,52,+40.9 secs,11,4,2010,Britain,10
+9,3,Michael Schumacher,Mercedes GP,52,+41.5 secs,10,2,2010,Britain,10
+10,10,Nico Hulkenberg,Williams-Cosworth,52,+42.0 secs,13,1,2010,Britain,10
+11,15,Vitantonio Liuzzi,Force India-Mercedes,52,+42.4 secs,20,0,2010,Britain,10
+12,16,Sebastien Buemi,STR-Ferrari,52,+47.6 secs,16,0,2010,Britain,10
+13,12,Vitaly Petrov,Renault,52,+59.3 secs,15,0,2010,Britain,10
+14,8,Fernando Alonso,Ferrari,52,+62.3 secs,3,0,2010,Britain,10
+15,7,Felipe Massa,Ferrari,52,+67.4 secs,7,0,2010,Britain,10
+16,18,Jarno Trulli,Lotus-Cosworth,51,+1 Lap,21,0,2010,Britain,10
+17,19,Heikki Kovalainen,Lotus-Cosworth,51,+1 Lap,18,0,2010,Britain,10
+18,24,Timo Glock,Virgin-Cosworth,50,+2 Laps,19,0,2010,Britain,10
+19,20,Karun Chandhok,HRT-Cosworth,50,+2 Laps,23,0,2010,Britain,10
+20,21,Sakon Yamamoto,HRT-Cosworth,50,+2 Laps,24,0,2010,Britain,10
+Ret,17,Jaime Alguersuari,STR-Ferrari,44,Brakes,17,0,2010,Britain,10
+Ret,22,Pedro de la Rosa,BMW Sauber-Ferrari,29,Accident damage,9,0,2010,Britain,10
+Ret,11,Robert Kubica,Renault,19,Driveshaft,6,0,2010,Britain,10
+Ret,25,Lucas di Grassi,Virgin-Cosworth,9,Hydraulics,22,0,2010,Britain,10
+1,8,Fernando Alonso,Ferrari,67,1:27:38.864,2,25,2010,Germany,11
+2,7,Felipe Massa,Ferrari,67,+4.1 secs,3,18,2010,Germany,11
+3,5,Sebastian Vettel,RBR-Renault,67,+5.1 secs,1,15,2010,Germany,11
+4,2,Lewis Hamilton,McLaren-Mercedes,67,+26.8 secs,6,12,2010,Germany,11
+5,1,Jenson Button,McLaren-Mercedes,67,+29.4 secs,5,10,2010,Germany,11
+6,6,Mark Webber,RBR-Renault,67,+43.6 secs,4,8,2010,Germany,11
+7,11,Robert Kubica,Renault,66,+1 Lap,7,6,2010,Germany,11
+8,4,Nico Rosberg,Mercedes GP,66,+1 Lap,9,4,2010,Germany,11
+9,3,Michael Schumacher,Mercedes GP,66,+1 Lap,11,2,2010,Germany,11
+10,12,Vitaly Petrov,Renault,66,+1 Lap,13,1,2010,Germany,11
+11,23,Kamui Kobayashi,BMW Sauber-Ferrari,66,+1 Lap,12,0,2010,Germany,11
+12,9,Rubens Barrichello,Williams-Cosworth,66,+1 Lap,8,0,2010,Germany,11
+13,10,Nico Hulkenberg,Williams-Cosworth,66,+1 Lap,10,0,2010,Germany,11
+14,22,Pedro de la Rosa,BMW Sauber-Ferrari,66,+1 Lap,14,0,2010,Germany,11
+15,17,Jaime Alguersuari,STR-Ferrari,66,+1 Lap,15,0,2010,Germany,11
+16,15,Vitantonio Liuzzi,Force India-Mercedes,65,+2 Laps,21,0,2010,Germany,11
+17,14,Adrian Sutil,Force India-Mercedes,65,+2 Laps,19,0,2010,Germany,11
+18,24,Timo Glock,Virgin-Cosworth,64,+3 Laps,23,0,2010,Germany,11
+19,21,Bruno Senna,HRT-Cosworth,63,+4 Laps,20,0,2010,Germany,11
+Ret,19,Heikki Kovalainen,Lotus-Cosworth,56,Accident damage,18,0,2010,Germany,11
+Ret,25,Lucas di Grassi,Virgin-Cosworth,50,Suspension,24,0,2010,Germany,11
+Ret,20,Sakon Yamamoto,HRT-Cosworth,19,Mechanical,22,0,2010,Germany,11
+Ret,18,Jarno Trulli,Lotus-Cosworth,3,Gearbox,17,0,2010,Germany,11
+Ret,16,Sebastien Buemi,STR-Ferrari,1,Accident damage,16,0,2010,Germany,11
+1,6,Mark Webber,RBR-Renault,70,1:41:05.571,2,25,2010,Hungary,12
+2,8,Fernando Alonso,Ferrari,70,+17.8 secs,3,18,2010,Hungary,12
+3,5,Sebastian Vettel,RBR-Renault,70,+19.2 secs,1,15,2010,Hungary,12
+4,7,Felipe Massa,Ferrari,70,+27.4 secs,4,12,2010,Hungary,12
+5,12,Vitaly Petrov,Renault,70,+73.1 secs,7,10,2010,Hungary,12
+6,10,Nico Hulkenberg,Williams-Cosworth,70,+76.7 secs,10,8,2010,Hungary,12
+7,22,Pedro de la Rosa,BMW Sauber-Ferrari,69,+1 Lap,9,6,2010,Hungary,12
+8,1,Jenson Button,McLaren-Mercedes,69,+1 Lap,11,4,2010,Hungary,12
+9,23,Kamui Kobayashi,BMW Sauber-Ferrari,69,+1 Lap,23,2,2010,Hungary,12
+10,9,Rubens Barrichello,Williams-Cosworth,69,+1 Lap,12,1,2010,Hungary,12
+11,3,Michael Schumacher,Mercedes GP,69,+1 Lap,14,0,2010,Hungary,12
+12,16,Sebastien Buemi,STR-Ferrari,69,+1 Lap,15,0,2010,Hungary,12
+13,15,Vitantonio Liuzzi,Force India-Mercedes,69,+1 Lap,16,0,2010,Hungary,12
+14,19,Heikki Kovalainen,Lotus-Cosworth,67,+3 Laps,19,0,2010,Hungary,12
+15,18,Jarno Trulli,Lotus-Cosworth,67,+3 Laps,20,0,2010,Hungary,12
+16,24,Timo Glock,Virgin-Cosworth,67,+3 Laps,18,0,2010,Hungary,12
+17,21,Bruno Senna,HRT-Cosworth,67,+3 Laps,22,0,2010,Hungary,12
+18,25,Lucas di Grassi,Virgin-Cosworth,66,+4 Laps,21,0,2010,Hungary,12
+19,20,Sakon Yamamoto,HRT-Cosworth,66,+4 Laps,24,0,2010,Hungary,12
+Ret,2,Lewis Hamilton,McLaren-Mercedes,23,Gearbox,5,0,2010,Hungary,12
+Ret,11,Robert Kubica,Renault,23,Accident damage,8,0,2010,Hungary,12
+Ret,4,Nico Rosberg,Mercedes GP,15,Loose wheel,6,0,2010,Hungary,12
+Ret,14,Adrian Sutil,Force India-Mercedes,15,Accident,13,0,2010,Hungary,12
+Ret,17,Jaime Alguersuari,STR-Ferrari,1,Mechanical,17,0,2010,Hungary,12
+1,2,Lewis Hamilton,McLaren-Mercedes,44,1:29:04.268,2,25,2010,Belgium,13
+2,6,Mark Webber,RBR-Renault,44,+1.5 secs,1,18,2010,Belgium,13
+3,11,Robert Kubica,Renault,44,+3.4 secs,3,15,2010,Belgium,13
+4,7,Felipe Massa,Ferrari,44,+8.2 secs,6,12,2010,Belgium,13
+5,14,Adrian Sutil,Force India-Mercedes,44,+9.0 secs,8,10,2010,Belgium,13
+6,4,Nico Rosberg,Mercedes GP,44,+12.3 secs,14,8,2010,Belgium,13
+7,3,Michael Schumacher,Mercedes GP,44,+15.5 secs,21,6,2010,Belgium,13
+8,23,Kamui Kobayashi,BMW Sauber-Ferrari,44,+16.6 secs,17,4,2010,Belgium,13
+9,12,Vitaly Petrov,Renault,44,+23.8 secs,23,2,2010,Belgium,13
+10,15,Vitantonio Liuzzi,Force India-Mercedes,44,+34.8 secs,12,1,2010,Belgium,13
+11,22,Pedro de la Rosa,BMW Sauber-Ferrari,44,+36.0 secs,24,0,2010,Belgium,13
+12,16,Sebastien Buemi,STR-Ferrari,44,+39.8 secs,16,0,2010,Belgium,13
+13,17,Jaime Alguersuari,STR-Ferrari,44,+49.4 secs,11,0,2010,Belgium,13
+14,10,Nico Hulkenberg,Williams-Cosworth,43,+1 Lap,9,0,2010,Belgium,13
+15,5,Sebastian Vettel,RBR-Renault,43,+1 Lap,4,0,2010,Belgium,13
+16,19,Heikki Kovalainen,Lotus-Cosworth,43,+1 Lap,13,0,2010,Belgium,13
+17,25,Lucas di Grassi,Virgin-Cosworth,43,+1 Lap,22,0,2010,Belgium,13
+18,24,Timo Glock,Virgin-Cosworth,43,+1 Lap,20,0,2010,Belgium,13
+19,18,Jarno Trulli,Lotus-Cosworth,43,+1 Lap,15,0,2010,Belgium,13
+20,20,Sakon Yamamoto,HRT-Cosworth,42,+2 Laps,19,0,2010,Belgium,13
+Ret,8,Fernando Alonso,Ferrari,37,Accident,10,0,2010,Belgium,13
+Ret,1,Jenson Button,McLaren-Mercedes,15,Accident,5,0,2010,Belgium,13
+Ret,21,Bruno Senna,HRT-Cosworth,5,Suspension,18,0,2010,Belgium,13
+Ret,9,Rubens Barrichello,Williams-Cosworth,0,Accident,7,0,2010,Belgium,13
+1,8,Fernando Alonso,Ferrari,53,1:16:24.572,1,25,2010,Italy,14
+2,1,Jenson Button,McLaren-Mercedes,53,+2.9 secs,2,18,2010,Italy,14
+3,7,Felipe Massa,Ferrari,53,+4.2 secs,3,15,2010,Italy,14
+4,5,Sebastian Vettel,RBR-Renault,53,+28.1 secs,6,12,2010,Italy,14
+5,4,Nico Rosberg,Mercedes GP,53,+29.9 secs,7,10,2010,Italy,14
+6,6,Mark Webber,RBR-Renault,53,+31.2 secs,4,8,2010,Italy,14
+7,10,Nico Hulkenberg,Williams-Cosworth,53,+32.8 secs,8,6,2010,Italy,14
+8,11,Robert Kubica,Renault,53,+34.0 secs,9,4,2010,Italy,14
+9,3,Michael Schumacher,Mercedes GP,53,+44.9 secs,12,2,2010,Italy,14
+10,9,Rubens Barrichello,Williams-Cosworth,53,+64.2 secs,10,1,2010,Italy,14
+11,16,Sebastien Buemi,STR-Ferrari,53,+65.0 secs,14,0,2010,Italy,14
+12,15,Vitantonio Liuzzi,Force India-Mercedes,53,+66.1 secs,19,0,2010,Italy,14
+13,12,Vitaly Petrov,Renault,53,+78.9 secs,20,0,2010,Italy,14
+14,22,Pedro de la Rosa,BMW Sauber-Ferrari,52,+1 Lap,16,0,2010,Italy,14
+15,17,Jaime Alguersuari,STR-Ferrari,52,+1 Lap,15,0,2010,Italy,14
+16,14,Adrian Sutil,Force India-Mercedes,52,+1 Lap,11,0,2010,Italy,14
+17,24,Timo Glock,Virgin-Cosworth,51,+2 Laps,24,0,2010,Italy,14
+18,19,Heikki Kovalainen,Lotus-Cosworth,51,+2 Laps,18,0,2010,Italy,14
+19,20,Sakon Yamamoto,HRT-Cosworth,51,+2 Laps,23,0,2010,Italy,14
+20,25,Lucas di Grassi,Virgin-Cosworth,50,+3 Laps,21,0,2010,Italy,14
+Ret,18,Jarno Trulli,Lotus-Cosworth,46,Gearbox,17,0,2010,Italy,14
+Ret,21,Bruno Senna,HRT-Cosworth,11,Hydraulics,22,0,2010,Italy,14
+Ret,2,Lewis Hamilton,McLaren-Mercedes,0,Accident,5,0,2010,Italy,14
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,0,Gearbox,13,0,2010,Italy,14
+1,8,Fernando Alonso,Ferrari,61,1:57:53.579,1,25,2010,Singapore,15
+2,5,Sebastian Vettel,RBR-Renault,61,+0.2 secs,2,18,2010,Singapore,15
+3,6,Mark Webber,RBR-Renault,61,+29.1 secs,5,15,2010,Singapore,15
+4,1,Jenson Button,McLaren-Mercedes,61,+30.3 secs,4,12,2010,Singapore,15
+5,4,Nico Rosberg,Mercedes GP,61,+49.3 secs,7,10,2010,Singapore,15
+6,9,Rubens Barrichello,Williams-Cosworth,61,+56.1 secs,6,8,2010,Singapore,15
+7,11,Robert Kubica,Renault,61,+86.5 secs,8,6,2010,Singapore,15
+8,7,Felipe Massa,Ferrari,61,+113.3 secs,24,4,2010,Singapore,15
+9,14,Adrian Sutil,Force India-Mercedes,61,+122.4 secs,15,2,2010,Singapore,15
+10,10,Nico Hulkenberg,Williams-Cosworth,61,+132.8 secs,17,1,2010,Singapore,15
+11,12,Vitaly Petrov,Renault,60,+1 Lap,12,0,2010,Singapore,15
+12,17,Jaime Alguersuari,STR-Ferrari,60,+1 Lap,11,0,2010,Singapore,15
+13,3,Michael Schumacher,Mercedes GP,60,+1 Lap,9,0,2010,Singapore,15
+14,16,Sebastien Buemi,STR-Ferrari,60,+1 Lap,13,0,2010,Singapore,15
+15,25,Lucas di Grassi,Virgin-Cosworth,59,+2 Laps,20,0,2010,Singapore,15
+16,19,Heikki Kovalainen,Lotus-Cosworth,58,+3 Laps,19,0,2010,Singapore,15
+Ret,24,Timo Glock,Virgin-Cosworth,49,Hydraulics,18,0,2010,Singapore,15
+Ret,22,Nick Heidfeld,BMW Sauber-Ferrari,36,Accident,14,0,2010,Singapore,15
+Ret,2,Lewis Hamilton,McLaren-Mercedes,35,Accident,3,0,2010,Singapore,15
+Ret,20,Christian Klien,HRT-Cosworth,31,Hydraulics,22,0,2010,Singapore,15
+Ret,23,Kamui Kobayashi,BMW Sauber-Ferrari,30,Accident,10,0,2010,Singapore,15
+Ret,21,Bruno Senna,HRT-Cosworth,29,Accident,23,0,2010,Singapore,15
+Ret,18,Jarno Trulli,Lotus-Cosworth,27,Hydraulics,21,0,2010,Singapore,15
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,1,Accident damage,16,0,2010,Singapore,15
+1,5,Sebastian Vettel,RBR-Renault,53,1:30:27.323,1,25,2010,Japan,16
+2,6,Mark Webber,RBR-Renault,53,+0.9 secs,2,18,2010,Japan,16
+3,8,Fernando Alonso,Ferrari,53,+2.7 secs,4,15,2010,Japan,16
+4,1,Jenson Button,McLaren-Mercedes,53,+13.5 secs,5,12,2010,Japan,16
+5,2,Lewis Hamilton,McLaren-Mercedes,53,+39.5 secs,8,10,2010,Japan,16
+6,3,Michael Schumacher,Mercedes GP,53,+59.9 secs,10,8,2010,Japan,16
+7,23,Kamui Kobayashi,BMW Sauber-Ferrari,53,+64.0 secs,14,6,2010,Japan,16
+8,22,Nick Heidfeld,BMW Sauber-Ferrari,53,+69.6 secs,11,4,2010,Japan,16
+9,9,Rubens Barrichello,Williams-Cosworth,53,+70.8 secs,7,2,2010,Japan,16
+10,16,Sebastien Buemi,STR-Ferrari,53,+72.8 secs,18,1,2010,Japan,16
+11,17,Jaime Alguersuari,STR-Ferrari,52,+1 Lap,16,0,2010,Japan,16
+12,19,Heikki Kovalainen,Lotus-Cosworth,52,+1 Lap,20,0,2010,Japan,16
+13,18,Jarno Trulli,Lotus-Cosworth,51,+2 Laps,19,0,2010,Japan,16
+14,24,Timo Glock,Virgin-Cosworth,51,+2 Laps,22,0,2010,Japan,16
+15,21,Bruno Senna,HRT-Cosworth,51,+2 Laps,23,0,2010,Japan,16
+16,20,Sakon Yamamoto,HRT-Cosworth,50,+3 Laps,24,0,2010,Japan,16
+17,4,Nico Rosberg,Mercedes GP,47,Accident,6,0,2010,Japan,16
+DNS,25,Lucas di Grassi,Virgin-Cosworth,0,Accident,21,0,2010,Japan,16
+Ret,14,Adrian Sutil,Force India-Mercedes,44,Oil leak,15,0,2010,Japan,16
+Ret,11,Robert Kubica,Renault,2,Mechanical,3,0,2010,Japan,16
+Ret,10,Nico Hulkenberg,Williams-Cosworth,0,Accident,9,0,2010,Japan,16
+Ret,7,Felipe Massa,Ferrari,0,Accident,12,0,2010,Japan,16
+Ret,12,Vitaly Petrov,Renault,0,Accident,13,0,2010,Japan,16
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,0,Accident,17,0,2010,Japan,16
+1,8,Fernando Alonso,Ferrari,55,2:48:20.810,3,25,2010,Korea,17
+2,2,Lewis Hamilton,McLaren-Mercedes,55,+14.9 secs,4,18,2010,Korea,17
+3,7,Felipe Massa,Ferrari,55,+30.8 secs,6,15,2010,Korea,17
+4,3,Michael Schumacher,Mercedes GP,55,+39.6 secs,9,12,2010,Korea,17
+5,11,Robert Kubica,Renault,55,+47.7 secs,8,10,2010,Korea,17
+6,15,Vitantonio Liuzzi,Force India-Mercedes,55,+53.5 secs,17,8,2010,Korea,17
+7,9,Rubens Barrichello,Williams-Cosworth,55,+69.2 secs,10,6,2010,Korea,17
+8,23,Kamui Kobayashi,BMW Sauber-Ferrari,55,+77.8 secs,12,4,2010,Korea,17
+9,22,Nick Heidfeld,BMW Sauber-Ferrari,55,+80.1 secs,13,2,2010,Korea,17
+10,10,Nico Hulkenberg,Williams-Cosworth,55,+80.8 secs,11,1,2010,Korea,17
+11,17,Jaime Alguersuari,STR-Ferrari,55,+84.1 secs,15,0,2010,Korea,17
+12,1,Jenson Button,McLaren-Mercedes,55,+89.9 secs,7,0,2010,Korea,17
+13,19,Heikki Kovalainen,Lotus-Cosworth,54,+1 Lap,21,0,2010,Korea,17
+14,21,Bruno Senna,HRT-Cosworth,53,+2 Laps,24,0,2010,Korea,17
+15,20,Sakon Yamamoto,HRT-Cosworth,53,+2 Laps,23,0,2010,Korea,17
+Ret,14,Adrian Sutil,Force India-Mercedes,46,Accident,14,0,2010,Korea,17
+Ret,5,Sebastian Vettel,RBR-Renault,45,Engine,1,0,2010,Korea,17
+Ret,12,Vitaly Petrov,Renault,39,Accident,20,0,2010,Korea,17
+Ret,24,Timo Glock,Virgin-Cosworth,31,Accident,19,0,2010,Korea,17
+Ret,16,Sebastien Buemi,STR-Ferrari,30,Accident,16,0,2010,Korea,17
+Ret,25,Lucas di Grassi,Virgin-Cosworth,25,Accident,22,0,2010,Korea,17
+Ret,18,Jarno Trulli,Lotus-Cosworth,25,Hydraulics,18,0,2010,Korea,17
+Ret,6,Mark Webber,RBR-Renault,18,Accident,2,0,2010,Korea,17
+Ret,4,Nico Rosberg,Mercedes GP,18,Accident,5,0,2010,Korea,17
+1,5,Sebastian Vettel,RBR-Renault,71, 1:33:11.803,2,25,2010,Brasil,18
+2,6,Mark Webber,RBR-Renault,71,+4.2 secs,3,18,2010,Brasil,18
+3,8,Fernando Alonso,Ferrari,71,+6.8 secs,5,15,2010,Brasil,18
+4,2,Lewis Hamilton,McLaren-Mercedes,71,+14.6 secs,4,12,2010,Brasil,18
+5,1,Jenson Button,McLaren-Mercedes,71,+15.5 secs,11,10,2010,Brasil,18
+6,4,Nico Rosberg,Mercedes GP,71,+35.3 secs,13,8,2010,Brasil,18
+7,3,Michael Schumacher,Mercedes GP,71,+43.4 secs,8,6,2010,Brasil,18
+8,10,Nico Hulkenberg,Williams-Cosworth,70,+1 Lap,1,4,2010,Brasil,18
+9,11,Robert Kubica,Renault,70,+1 Lap,7,2,2010,Brasil,18
+10,23,Kamui Kobayashi,BMW Sauber-Ferrari,70,+1 Lap,12,1,2010,Brasil,18
+11,17,Jaime Alguersuari,STR-Ferrari,70,+1 Lap,14,0,2010,Brasil,18
+12,14,Adrian Sutil,Force India-Mercedes,70,+1 Lap,22,0,2010,Brasil,18
+13,16,Sebastien Buemi,STR-Ferrari,70,+1 Lap,19,0,2010,Brasil,18
+14,9,Rubens Barrichello,Williams-Cosworth,70,+1 Lap,6,0,2010,Brasil,18
+15,7,Felipe Massa,Ferrari,70,+1 Lap,9,0,2010,Brasil,18
+16,12,Vitaly Petrov,Renault,70,+1 Lap,10,0,2010,Brasil,18
+17,22,Nick Heidfeld,BMW Sauber-Ferrari,70,+1 Lap,15,0,2010,Brasil,18
+18,19,Heikki Kovalainen,Lotus-Cosworth,69,+2 Lap,20,0,2010,Brasil,18
+19,18,Jarno Trulli,Lotus-Cosworth,69,+2 Laps,18,0,2010,Brasil,18
+20,24,Timo Glock,Virgin-Cosworth,69,+2 Laps,17,0,2010,Brasil,18
+21,21,Bruno Senna,HRT-Cosworth,69,+2 Laps,24,0,2010,Brasil,18
+22,20,Christian Klien,HRT-Cosworth,65,+6 Laps,23,0,2010,Brasil,18
+NC,25,Lucas di Grassi,Virgin-Cosworth,62,+9 Laps,21,0,2010,Brasil,18
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,49,Accident,16,0,2010,Brasil,18
+1,5,Sebastian Vettel,RBR-Renault,55,1:39:36.837,1,25,2010,Abu Dhabi,19
+2,2,Lewis Hamilton,McLaren-Mercedes,55,+10.1 secs,2,18,2010,Abu Dhabi,19
+3,1,Jenson Button,McLaren-Mercedes,55,+11.0 secs,4,15,2010,Abu Dhabi,19
+4,4,Nico Rosberg,Mercedes GP,55,+30.7 secs,9,12,2010,Abu Dhabi,19
+5,11,Robert Kubica,Renault,55,+39.0 secs,11,10,2010,Abu Dhabi,19
+6,12,Vitaly Petrov,Renault,55,+43.5 secs,10,8,2010,Abu Dhabi,19
+7,8,Fernando Alonso,Ferrari,55,+43.7 secs,3,6,2010,Abu Dhabi,19
+8,6,Mark Webber,RBR-Renault,55,+44.2 secs,5,4,2010,Abu Dhabi,19
+9,17,Jaime Alguersuari,STR-Ferrari,55,+50.2 secs,17,2,2010,Abu Dhabi,19
+10,7,Felipe Massa,Ferrari,55,+50.8 secs,6,1,2010,Abu Dhabi,19
+11,22,Nick Heidfeld,BMW Sauber-Ferrari,55,+51.5 secs,14,0,2010,Abu Dhabi,19
+12,9,Rubens Barrichello,Williams-Cosworth,55,+57.6 secs,7,0,2010,Abu Dhabi,19
+13,14,Adrian Sutil,Force India-Mercedes,55,+58.3 secs,13,0,2010,Abu Dhabi,19
+14,23,Kamui Kobayashi,BMW Sauber-Ferrari,55,+59.5 secs,12,0,2010,Abu Dhabi,19
+15,16,Sebastien Buemi,STR-Ferrari,55,+63.1 secs,18,0,2010,Abu Dhabi,19
+16,10,Nico Hulkenberg,Williams-Cosworth,55,+64.7 secs,15,0,2010,Abu Dhabi,19
+17,19,Heikki Kovalainen,Lotus-Cosworth,54,+1 Lap,20,0,2010,Abu Dhabi,19
+18,25,Lucas di Grassi,Virgin-Cosworth,53,+2 Laps,22,0,2010,Abu Dhabi,19
+19,21,Bruno Senna,HRT-Cosworth,53,+2 Laps,23,0,2010,Abu Dhabi,19
+20,20,Christian Klien,HRT-Cosworth,53,+2 Laps,24,0,2010,Abu Dhabi,19
+21,18,Jarno Trulli,Lotus-Cosworth,51,+4 Laps,19,0,2010,Abu Dhabi,19
+Ret,24,Timo Glock,Virgin-Cosworth,43,Gearbox,21,0,2010,Abu Dhabi,19
+Ret,3,Michael Schumacher,Mercedes GP,0,Accident,8,0,2010,Abu Dhabi,19
+Ret,15,Vitantonio Liuzzi,Force India-Mercedes,0,Accident,16,0,2010,Abu Dhabi,19
+1,1,Sebastian Vettel,Red Bull Racing-Renault,58,1:29:30.259,1,25,2011,Australia,1
+2,3,Lewis Hamilton,McLaren-Mercedes,58,+22.2 secs,2,18,2011,Australia,1
+3,10,Vitaly Petrov,Renault,58,+30.5 secs,6,15,2011,Australia,1
+4,5,Fernando Alonso,Ferrari,58,+31.7 secs,5,12,2011,Australia,1
+5,2,Mark Webber,Red Bull Racing-Renault,58,+38.1 secs,3,10,2011,Australia,1
+6,4,Jenson Button,McLaren-Mercedes,58,+54.3 secs,4,8,2011,Australia,1
+7,6,Felipe Massa,Ferrari,58,+85.1 secs,8,6,2011,Australia,1
+8,18,Sebastien Buemi,STR-Ferrari,57,+1 Lap,10,4,2011,Australia,1
+9,14,Adrian Sutil,Force India-Mercedes,57,+1 Lap,16,2,2011,Australia,1
+10,15,Paul di Resta,Force India-Mercedes,57,+1 Lap,14,1,2011,Australia,1
+11,19,Jaime Alguersuari,STR-Ferrari,57,+1 Lap,12,0,2011,Australia,1
+12,9,Nick Heidfeld,Renault,57,+1 Lap,18,0,2011,Australia,1
+13,21,Jarno Trulli,Lotus-Renault,56,+2 Laps,20,0,2011,Australia,1
+14,25,Jerome D'Ambrosio,Virgin-Cosworth,54,+4 Laps,22,0,2011,Australia,1
+DNQ,22,Narain Karthikeyan,HRT-Cosworth,,,,0,2011,Australia,1
+DNQ,23,Vitantonio Liuzzi,HRT-Cosworth,,,,0,2011,Australia,1
+DSQ,17,Sergio Perez,Sauber-Ferrari,58,+65.8 secs,13,0,2011,Australia,1
+DSQ,16,Kamui Kobayashi,Sauber-Ferrari,58,+76.8 secs,9,0,2011,Australia,1
+NC,24,Timo Glock,Virgin-Cosworth,49,+9 Laps,21,0,2011,Australia,1
+Ret,11,Rubens Barrichello,Williams-Cosworth,48,Transmission,17,0,2011,Australia,1
+Ret,8,Nico Rosberg,Mercedes,22,Accident damage,7,0,2011,Australia,1
+Ret,20,Heikki Kovalainen,Lotus-Renault,19,Water leak,19,0,2011,Australia,1
+Ret,7,Michael Schumacher,Mercedes,19,Puncture damage,11,0,2011,Australia,1
+Ret,12,Pastor Maldonado,Williams-Cosworth,9,Transmission,15,0,2011,Australia,1
+1,1,Sebastian Vettel,Red Bull Racing-Renault,56,1:37:39.832,1,25,2011,Malaysia,2
+2,4,Jenson Button,McLaren-Mercedes,56,+3.2 secs,4,18,2011,Malaysia,2
+3,9,Nick Heidfeld,Renault,56,+25.0 secs,6,15,2011,Malaysia,2
+4,2,Mark Webber,Red Bull Racing-Renault,56,+26.3 secs,3,12,2011,Malaysia,2
+5,6,Felipe Massa,Ferrari,56,+36.9 secs,7,10,2011,Malaysia,2
+6,5,Fernando Alonso,Ferrari,56,+57.2 secs,5,8,2011,Malaysia,2
+7,16,Kamui Kobayashi,Sauber-Ferrari,56,+66.4 secs,10,6,2011,Malaysia,2
+8,3,Lewis Hamilton,McLaren-Mercedes,56,+69.9 secs,2,4,2011,Malaysia,2
+9,7,Michael Schumacher,Mercedes,56,+84.8 secs,11,2,2011,Malaysia,2
+10,15,Paul di Resta,Force India-Mercedes,56,+91.5 secs,14,1,2011,Malaysia,2
+11,14,Adrian Sutil,Force India-Mercedes,56,+101.3 secs,17,0,2011,Malaysia,2
+12,8,Nico Rosberg,Mercedes,55,+1 Lap,9,0,2011,Malaysia,2
+13,18,Sebastien Buemi,STR-Ferrari,55,+1 Lap,12,0,2011,Malaysia,2
+14,19,Jaime Alguersuari,STR-Ferrari,55,+1 Lap,13,0,2011,Malaysia,2
+15,20,Heikki Kovalainen,Lotus-Renault,55,+1 Lap,19,0,2011,Malaysia,2
+16,24,Timo Glock,Virgin-Cosworth,54,+2 Laps,21,0,2011,Malaysia,2
+17,10,Vitaly Petrov,Renault,52,Accident,8,0,2011,Malaysia,2
+Ret,23,Vitantonio Liuzzi,HRT-Cosworth,46,Rear wing issue,23,0,2011,Malaysia,2
+Ret,25,Jerome D'Ambrosio,Virgin-Cosworth,42,Accident,22,0,2011,Malaysia,2
+Ret,21,Jarno Trulli,Lotus-Renault,31,Clutch,20,0,2011,Malaysia,2
+Ret,17,Sergio Perez,Sauber-Ferrari,23,Accident,16,0,2011,Malaysia,2
+Ret,11,Rubens Barrichello,Williams-Cosworth,22,Hydraulics,15,0,2011,Malaysia,2
+Ret,22,Narain Karthikeyan,HRT-Cosworth,14,Hydraulics,24,0,2011,Malaysia,2
+Ret,12,Pastor Maldonado,Williams-Cosworth,8,Engine misfire,18,0,2011,Malaysia,2
+1,3,Lewis Hamilton,McLaren-Mercedes,56,1:36:58.226,3,25,2011,China,3
+2,1,Sebastian Vettel,Red Bull Racing-Renault,56,+5.1 secs,1,18,2011,China,3
+3,2,Mark Webber,Red Bull Racing-Renault,56,+7.5 secs,18,15,2011,China,3
+4,4,Jenson Button,McLaren-Mercedes,56,+10.0 secs,2,12,2011,China,3
+5,8,Nico Rosberg,Mercedes,56,+13.4 secs,4,10,2011,China,3
+6,6,Felipe Massa,Ferrari,56,+15.8 secs,6,8,2011,China,3
+7,5,Fernando Alonso,Ferrari,56,+30.6 secs,5,6,2011,China,3
+8,7,Michael Schumacher,Mercedes,56,+31.0 secs,14,4,2011,China,3
+9,10,Vitaly Petrov,Renault,56,+57.4 secs,10,2,2011,China,3
+10,16,Kamui Kobayashi,Sauber-Ferrari,56,+63.2 secs,13,1,2011,China,3
+11,15,Paul di Resta,Force India-Mercedes,56,+68.7 secs,8,0,2011,China,3
+12,9,Nick Heidfeld,Renault,56,+72.7 secs,16,0,2011,China,3
+13,11,Rubens Barrichello,Williams-Cosworth,56,+90.1 secs,15,0,2011,China,3
+14,18,Sebastien Buemi,STR-Ferrari,56,+90.6 secs,9,0,2011,China,3
+15,14,Adrian Sutil,Force India-Mercedes,55,+1 Lap,11,0,2011,China,3
+16,20,Heikki Kovalainen,Lotus-Renault,55,+1 Lap,19,0,2011,China,3
+17,17,Sergio Perez,Sauber-Ferrari,55,+1 Lap,12,0,2011,China,3
+18,12,Pastor Maldonado,Williams-Cosworth,55,+1 Lap,17,0,2011,China,3
+19,21,Jarno Trulli,Lotus-Renault,55,+1 Lap,20,0,2011,China,3
+20,25,Jerome D'Ambrosio,Virgin-Cosworth,54,+2 Laps,21,0,2011,China,3
+21,24,Timo Glock,Virgin-Cosworth,54,+2 Laps,22,0,2011,China,3
+22,23,Vitantonio Liuzzi,HRT-Cosworth,54,+2 Laps,23,0,2011,China,3
+23,22,Narain Karthikeyan,HRT-Cosworth,54,+2 Laps,24,0,2011,China,3
+Ret,19,Jaime Alguersuari,STR-Ferrari,9,Wheel,7,0,2011,China,3
+1,1,Sebastian Vettel,Red Bull Racing-Renault,58,1:30:17.558,1,25,2011,Turkey,4
+2,2,Mark Webber,Red Bull Racing-Renault,58,+8.8 secs,2,18,2011,Turkey,4
+3,5,Fernando Alonso,Ferrari,58,+10.0 secs,5,15,2011,Turkey,4
+4,3,Lewis Hamilton,McLaren-Mercedes,58,+40.2 secs,4,12,2011,Turkey,4
+5,8,Nico Rosberg,Mercedes,58,+47.5 secs,3,10,2011,Turkey,4
+6,4,Jenson Button,McLaren-Mercedes,58,+59.4 secs,6,8,2011,Turkey,4
+7,9,Nick Heidfeld,Renault,58,+60.8 secs,9,6,2011,Turkey,4
+8,10,Vitaly Petrov,Renault,58,+68.1 secs,7,4,2011,Turkey,4
+9,18,Sebastien Buemi,STR-Ferrari,58,+69.3 secs,16,2,2011,Turkey,4
+10,16,Kamui Kobayashi,Sauber-Ferrari,58,+78.0 secs,24,1,2011,Turkey,4
+11,6,Felipe Massa,Ferrari,58,+79.8 secs,10,0,2011,Turkey,4
+12,7,Michael Schumacher,Mercedes,58,+85.4 secs,8,0,2011,Turkey,4
+13,14,Adrian Sutil,Force India-Mercedes,57,+1 Lap,12,0,2011,Turkey,4
+14,17,Sergio Perez,Sauber-Ferrari,57,+1 Lap,15,0,2011,Turkey,4
+15,11,Rubens Barrichello,Williams-Cosworth,57,+1 Lap,11,0,2011,Turkey,4
+16,19,Jaime Alguersuari,STR-Ferrari,57,+1 Lap,17,0,2011,Turkey,4
+17,12,Pastor Maldonado,Williams-Cosworth,57,+1 Lap,14,0,2011,Turkey,4
+18,21,Jarno Trulli,Lotus-Renault,57,+1 Lap,19,0,2011,Turkey,4
+19,20,Heikki Kovalainen,Lotus-Renault,56,+2 Laps,18,0,2011,Turkey,4
+20,25,Jerome D'Ambrosio,Virgin-Cosworth,56,+2 Laps,23,0,2011,Turkey,4
+21,22,Narain Karthikeyan,HRT-Cosworth,55,+3 Laps,22,0,2011,Turkey,4
+22,23,Vitantonio Liuzzi,HRT-Cosworth,53,+5 Laps,20,0,2011,Turkey,4
+DNS,24,Timo Glock,Virgin-Cosworth,0,Gearbox,21,0,2011,Turkey,4
+Ret,15,Paul di Resta,Force India-Mercedes,44,Retired,13,0,2011,Turkey,4
+1,1,Sebastian Vettel,Red Bull Racing-Renault,78,2:09:38.373,1,25,2011,Monaco,6
+2,5,Fernando Alonso,Ferrari,78,+1.1 secs,4,18,2011,Monaco,6
+3,4,Jenson Button,McLaren-Mercedes,78,+2.3 secs,2,15,2011,Monaco,6
+4,2,Mark Webber,Red Bull Racing-Renault,78,+23.1 secs,3,12,2011,Monaco,6
+5,16,Kamui Kobayashi,Sauber-Ferrari,78,+26.9 secs,12,10,2011,Monaco,6
+6,3,Lewis Hamilton,McLaren-Mercedes,78,+47.2 secs,9,8,2011,Monaco,6
+7,14,Adrian Sutil,Force India-Mercedes,77,+1 Lap,14,6,2011,Monaco,6
+8,9,Nick Heidfeld,Renault,77,+1 Lap,15,4,2011,Monaco,6
+9,11,Rubens Barrichello,Williams-Cosworth,77,+1 Lap,11,2,2011,Monaco,6
+10,18,Sebastien Buemi,STR-Ferrari,77,+1 Lap,16,1,2011,Monaco,6
+11,8,Nico Rosberg,Mercedes,76,+2 Laps,7,0,2011,Monaco,6
+12,15,Paul di Resta,Force India-Mercedes,76,+2 Laps,13,0,2011,Monaco,6
+13,21,Jarno Trulli,Lotus-Renault,76,+2 Laps,18,0,2011,Monaco,6
+14,20,Heikki Kovalainen,Lotus-Renault,76,+2 Laps,17,0,2011,Monaco,6
+15,25,Jerome D'Ambrosio,Virgin-Cosworth,75,+3 Laps,21,0,2011,Monaco,6
+16,23,Vitantonio Liuzzi,HRT-Cosworth,75,+3 Laps,23,0,2011,Monaco,6
+17,22,Narain Karthikeyan,HRT-Cosworth,74,+4 Laps,22,0,2011,Monaco,6
+18,12,Pastor Maldonado,Williams-Cosworth,73,Accident,8,0,2011,Monaco,6
+DNS,17,Sergio Perez,Sauber-Ferrari,,,,0,2011,Monaco,6
+Ret,10,Vitaly Petrov,Renault,67,Accident,10,0,2011,Monaco,6
+Ret,19,Jaime Alguersuari,STR-Ferrari,66,Accident,19,0,2011,Monaco,6
+Ret,6,Felipe Massa,Ferrari,32,Accident,6,0,2011,Monaco,6
+Ret,7,Michael Schumacher,Mercedes,32,Airbox fire,5,0,2011,Monaco,6
+Ret,24,Timo Glock,Virgin-Cosworth,30,Suspension,20,0,2011,Monaco,6
+1,4,Jenson Button,McLaren-Mercedes,70,4:04:39.537,7,25,2011,Canada,7
+2,1,Sebastian Vettel,Red Bull Racing-Renault,70,+2.7 secs,1,18,2011,Canada,7
+3,2,Mark Webber,Red Bull Racing-Renault,70,+13.8 secs,4,15,2011,Canada,7
+4,7,Michael Schumacher,Mercedes,70,+14.2 secs,8,12,2011,Canada,7
+5,10,Vitaly Petrov,Renault,70,+20.3 secs,10,10,2011,Canada,7
+6,6,Felipe Massa,Ferrari,70,+33.2 secs,3,8,2011,Canada,7
+7,16,Kamui Kobayashi,Sauber-Ferrari,70,+33.2 secs,13,6,2011,Canada,7
+8,19,Jaime Alguersuari,STR-Ferrari,70,+35.9 secs,24,4,2011,Canada,7
+9,11,Rubens Barrichello,Williams-Cosworth,70,+45.1 secs,16,2,2011,Canada,7
+10,18,Sebastien Buemi,STR-Ferrari,70,+47.0 secs,15,1,2011,Canada,7
+11,8,Nico Rosberg,Mercedes,70,+50.4 secs,6,0,2011,Canada,7
+12,17,Pedro de la Rosa,Sauber-Ferrari,70,+63.6 secs,17,0,2011,Canada,7
+13,23,Vitantonio Liuzzi,HRT-Cosworth,69,+1 Lap,20,0,2011,Canada,7
+14,25,Jerome D'Ambrosio,Virgin-Cosworth,69,+1 Lap,23,0,2011,Canada,7
+15,24,Timo Glock,Virgin-Cosworth,69,+1 Lap,21,0,2011,Canada,7
+16,21,Jarno Trulli,Lotus-Renault,69,+1 Lap,18,0,2011,Canada,7
+17,22,Narain Karthikeyan,HRT-Cosworth,69,+1 Lap,22,0,2011,Canada,7
+18,15,Paul di Resta,Force India-Mercedes,67,Accident,11,0,2011,Canada,7
+Ret,12,Pastor Maldonado,Williams-Cosworth,61,Spun off,12,0,2011,Canada,7
+Ret,9,Nick Heidfeld,Renault,55,Accident,9,0,2011,Canada,7
+Ret,14,Adrian Sutil,Force India-Mercedes,49,Accident,14,0,2011,Canada,7
+Ret,5,Fernando Alonso,Ferrari,36,Accident,2,0,2011,Canada,7
+Ret,20,Heikki Kovalainen,Lotus-Renault,28,Driveshaft,19,0,2011,Canada,7
+Ret,3,Lewis Hamilton,McLaren-Mercedes,7,Accident,5,0,2011,Canada,7
+1,1,Sebastian Vettel,Red Bull Racing-Renault,66,1:39:03.301,2,25,2011,Spain,8
+1,1,Sebastian Vettel,Red Bull Racing-Renault,57,1:39:36.169,1,25,2011,Europe,8
+2,3,Lewis Hamilton,McLaren-Mercedes,66,+0.6 secs,3,18,2011,Spain,8
+2,5,Fernando Alonso,Ferrari,57,+10.8 secs,4,18,2011,Europe,8
+3,4,Jenson Button,McLaren-Mercedes,66,+35.6 secs,5,15,2011,Spain,8
+3,2,Mark Webber,Red Bull Racing-Renault,57,+27.2 secs,2,15,2011,Europe,8
+4,2,Mark Webber,Red Bull Racing-Renault,66,+47.9 secs,1,12,2011,Spain,8
+4,3,Lewis Hamilton,McLaren-Mercedes,57,+46.1 secs,3,12,2011,Europe,8
+5,5,Fernando Alonso,Ferrari,65,+1 Lap,4,10,2011,Spain,8
+5,6,Felipe Massa,Ferrari,57,+51.7 secs,5,10,2011,Europe,8
+6,7,Michael Schumacher,Mercedes,65,+1 Lap,10,8,2011,Spain,8
+6,4,Jenson Button,McLaren-Mercedes,57,+60.0 secs,6,8,2011,Europe,8
+7,8,Nico Rosberg,Mercedes,65,+1 Lap,7,6,2011,Spain,8
+7,8,Nico Rosberg,Mercedes,57,+98.0 secs,7,6,2011,Europe,8
+8,9,Nick Heidfeld,Renault,65,+1 Lap,24,4,2011,Spain,8
+8,19,Jaime Alguersuari,STR-Ferrari,56,+1 Lap,18,4,2011,Europe,8
+9,17,Sergio Perez,Sauber-Ferrari,65,+1 Lap,12,2,2011,Spain,8
+9,14,Adrian Sutil,Force India-Mercedes,56,+1 Lap,10,2,2011,Europe,8
+10,16,Kamui Kobayashi,Sauber-Ferrari,65,+1 Lap,14,1,2011,Spain,8
+10,9,Nick Heidfeld,Renault,56,+1 Lap,9,1,2011,Europe,8
+11,10,Vitaly Petrov,Renault,65,+1 Lap,6,0,2011,Spain,8
+11,17,Sergio Perez,Sauber-Ferrari,56,+1 Lap,16,0,2011,Europe,8
+12,15,Paul di Resta,Force India-Mercedes,65,+1 Lap,16,0,2011,Spain,8
+12,11,Rubens Barrichello,Williams-Cosworth,56,+1 Lap,13,0,2011,Europe,8
+13,14,Adrian Sutil,Force India-Mercedes,65,+1 Lap,17,0,2011,Spain,8
+13,18,Sebastien Buemi,STR-Ferrari,56,+1 Lap,17,0,2011,Europe,8
+14,18,Sebastien Buemi,STR-Ferrari,65,+1 Lap,11,0,2011,Spain,8
+14,15,Paul di Resta,Force India-Mercedes,56,+1 Lap,12,0,2011,Europe,8
+15,12,Pastor Maldonado,Williams-Cosworth,65,+1 Lap,9,0,2011,Spain,8
+15,10,Vitaly Petrov,Renault,56,+1 Lap,11,0,2011,Europe,8
+16,19,Jaime Alguersuari,STR-Ferrari,64,+2 Laps,13,0,2011,Spain,8
+16,16,Kamui Kobayashi,Sauber-Ferrari,56,+1 Lap,14,0,2011,Europe,8
+17,11,Rubens Barrichello,Williams-Cosworth,64,+2 Laps,19,0,2011,Spain,8
+17,7,Michael Schumacher,Mercedes,56,+1 Lap,8,0,2011,Europe,8
+18,21,Jarno Trulli,Lotus-Renault,64,+2 Laps,18,0,2011,Spain,8
+18,12,Pastor Maldonado,Williams-Cosworth,56,+1 Lap,15,0,2011,Europe,8
+19,24,Timo Glock,Virgin-Cosworth,63,+3 Laps,20,0,2011,Spain,8
+19,20,Heikki Kovalainen,Lotus-Renault,55,+2 Laps,19,0,2011,Europe,8
+20,25,Jerome D'Ambrosio,Virgin-Cosworth,62,+4 Laps,23,0,2011,Spain,8
+20,21,Jarno Trulli,Lotus-Renault,55,+2 Laps,20,0,2011,Europe,8
+21,22,Narain Karthikeyan,HRT-Cosworth,61,+5 Laps,22,0,2011,Spain,8
+21,24,Timo Glock,Virgin-Cosworth,55,+2 Laps,21,0,2011,Europe,8
+22,25,Jerome D'Ambrosio,Virgin-Cosworth,55,+2 Laps,23,0,2011,Europe,8
+23,23,Vitantonio Liuzzi,HRT-Cosworth,54,+3 Laps,22,0,2011,Europe,8
+24,22,Narain Karthikeyan,HRT-Cosworth,54,+3 Laps,24,0,2011,Europe,8
+Ret,6,Felipe Massa,Ferrari,58,Gearbox,8,0,2011,Spain,8
+Ret,20,Heikki Kovalainen,Lotus-Renault,48,Accident,15,0,2011,Spain,8
+Ret,23,Vitantonio Liuzzi,HRT-Cosworth,28,Gearbox,21,0,2011,Spain,8
+1,5,Fernando Alonso,Ferrari,52,1:28:41.196,3,25,2011,Britain,9
+2,1,Sebastian Vettel,Red Bull Racing-Renault,52,+16.5 secs,2,18,2011,Britain,9
+3,2,Mark Webber,Red Bull Racing-Renault,52,+16.9 secs,1,15,2011,Britain,9
+4,3,Lewis Hamilton,McLaren-Mercedes,52,+28.9 secs,10,12,2011,Britain,9
+5,6,Felipe Massa,Ferrari,52,+29.0 secs,4,10,2011,Britain,9
+6,8,Nico Rosberg,Mercedes,52,+60.6 secs,9,8,2011,Britain,9
+7,17,Sergio Perez,Sauber-Ferrari,52,+65.5 secs,12,6,2011,Britain,9
+8,9,Nick Heidfeld,Renault,52,+75.5 secs,16,4,2011,Britain,9
+9,7,Michael Schumacher,Mercedes,52,+77.9 secs,13,2,2011,Britain,9
+10,19,Jaime Alguersuari,STR-Ferrari,52,+79.1 secs,18,1,2011,Britain,9
+11,14,Adrian Sutil,Force India-Mercedes,52,+79.7 secs,11,0,2011,Britain,9
+12,10,Vitaly Petrov,Renault,52,+80.6 secs,14,0,2011,Britain,9
+13,11,Rubens Barrichello,Williams-Cosworth,51,+1 Lap,15,0,2011,Britain,9
+14,12,Pastor Maldonado,Williams-Cosworth,51,+1 Lap,7,0,2011,Britain,9
+15,15,Paul di Resta,Force India-Mercedes,51,+1 Lap,6,0,2011,Britain,9
+16,24,Timo Glock,Virgin-Cosworth,50,+2 Laps,20,0,2011,Britain,9
+17,25,Jerome D'Ambrosio,Virgin-Cosworth,50,+2 Laps,22,0,2011,Britain,9
+18,23,Vitantonio Liuzzi,HRT-Cosworth,50,+2 Laps,23,0,2011,Britain,9
+19,22,Daniel Ricciardo,HRT-Cosworth,49,+3 Laps,24,0,2011,Britain,9
+Ret,4,Jenson Button,McLaren-Mercedes,39,Wheel nut,5,0,2011,Britain,9
+Ret,18,Sebastien Buemi,STR-Ferrari,25,Accident damage,19,0,2011,Britain,9
+Ret,16,Kamui Kobayashi,Sauber-Ferrari,23,Oil leak,8,0,2011,Britain,9
+Ret,21,Jarno Trulli,Lotus-Renault,10,Oil leak,21,0,2011,Britain,9
+Ret,20,Heikki Kovalainen,Lotus-Renault,2,Gearbox,17,0,2011,Britain,9
+1,3,Lewis Hamilton,McLaren-Mercedes,60,1:37:30.334,2,25,2011,Germany,10
+2,5,Fernando Alonso,Ferrari,60,+3.9 secs,4,18,2011,Germany,10
+3,2,Mark Webber,Red Bull Racing-Renault,60,+9.7 secs,1,15,2011,Germany,10
+4,1,Sebastian Vettel,Red Bull Racing-Renault,60,+47.9 secs,3,12,2011,Germany,10
+5,6,Felipe Massa,Ferrari,60,+52.2 secs,5,10,2011,Germany,10
+6,14,Adrian Sutil,Force India-Mercedes,60,+86.2 secs,8,8,2011,Germany,10
+7,8,Nico Rosberg,Mercedes,59,+1 Lap,6,6,2011,Germany,10
+8,7,Michael Schumacher,Mercedes,59,+1 Lap,10,4,2011,Germany,10
+9,16,Kamui Kobayashi,Sauber-Ferrari,59,+1 Lap,17,2,2011,Germany,10
+10,10,Vitaly Petrov,Renault,59,+1 Lap,9,1,2011,Germany,10
+11,17,Sergio Perez,Sauber-Ferrari,59,+1 Lap,15,0,2011,Germany,10
+12,19,Jaime Alguersuari,STR-Ferrari,59,+1 Lap,16,0,2011,Germany,10
+13,15,Paul di Resta,Force India-Mercedes,59,+1 Lap,12,0,2011,Germany,10
+14,12,Pastor Maldonado,Williams-Cosworth,59,+1 Lap,13,0,2011,Germany,10
+15,18,Sebastien Buemi,STR-Ferrari,59,+1 Lap,24,0,2011,Germany,10
+16,20,Heikki Kovalainen,Lotus-Renault,58,+2 Laps,18,0,2011,Germany,10
+17,24,Timo Glock,Virgin-Cosworth,57,+3 Laps,19,0,2011,Germany,10
+18,25,Jerome D'Ambrosio,Virgin-Cosworth,57,+3 Laps,21,0,2011,Germany,10
+19,22,Daniel Ricciardo,HRT-Cosworth,57,+3 Laps,22,0,2011,Germany,10
+20,21,Karun Chandhok,Lotus-Renault,56,+4 Laps,20,0,2011,Germany,10
+Ret,23,Vitantonio Liuzzi,HRT-Cosworth,37,Electrical,23,0,2011,Germany,10
+Ret,4,Jenson Button,McLaren-Mercedes,35,Hydraulics,7,0,2011,Germany,10
+Ret,11,Rubens Barrichello,Williams-Cosworth,16,Oil leak,14,0,2011,Germany,10
+Ret,9,Nick Heidfeld,Renault,9,Accident,11,0,2011,Germany,10
+1,4,Jenson Button,McLaren-Mercedes,70,1:46:42.337,3,25,2011,Hungary,11
+2,1,Sebastian Vettel,Red Bull Racing-Renault,70,+3.5 secs,1,18,2011,Hungary,11
+3,5,Fernando Alonso,Ferrari,70,+19.8 secs,5,15,2011,Hungary,11
+4,3,Lewis Hamilton,McLaren-Mercedes,70,+48.3 secs,2,12,2011,Hungary,11
+5,2,Mark Webber,Red Bull Racing-Renault,70,+49.7 secs,6,10,2011,Hungary,11
+6,6,Felipe Massa,Ferrari,70,+83.1 secs,4,8,2011,Hungary,11
+7,15,Paul di Resta,Force India-Mercedes,69,+1 Lap,11,6,2011,Hungary,11
+8,18,Sebastien Buemi,STR-Ferrari,69,+1 Lap,23,4,2011,Hungary,11
+9,8,Nico Rosberg,Mercedes,69,+1 Lap,7,2,2011,Hungary,11
+10,19,Jaime Alguersuari,STR-Ferrari,69,+1 Lap,16,1,2011,Hungary,11
+11,16,Kamui Kobayashi,Sauber-Ferrari,69,+1 Lap,13,0,2011,Hungary,11
+12,10,Vitaly Petrov,Renault,69,+1 Lap,12,0,2011,Hungary,11
+13,11,Rubens Barrichello,Williams-Cosworth,68,+2 Laps,15,0,2011,Hungary,11
+14,14,Adrian Sutil,Force India-Mercedes,68,+2 Laps,8,0,2011,Hungary,11
+15,17,Sergio Perez,Sauber-Ferrari,68,+2 Laps,10,0,2011,Hungary,11
+16,12,Pastor Maldonado,Williams-Cosworth,68,+2 Laps,17,0,2011,Hungary,11
+17,24,Timo Glock,Virgin-Cosworth,66,+4 Laps,20,0,2011,Hungary,11
+18,22,Daniel Ricciardo,HRT-Cosworth,66,+4 Laps,22,0,2011,Hungary,11
+19,25,Jerome D'Ambrosio,Virgin-Cosworth,65,+5 Laps,24,0,2011,Hungary,11
+20,23,Vitantonio Liuzzi,HRT-Cosworth,65,+5 Laps,21,0,2011,Hungary,11
+Ret,20,Heikki Kovalainen,Lotus-Renault,55,Water leak,18,0,2011,Hungary,11
+Ret,7,Michael Schumacher,Mercedes,26,Gearbox,9,0,2011,Hungary,11
+Ret,9,Nick Heidfeld,Renault,23,Fire,14,0,2011,Hungary,11
+Ret,21,Jarno Trulli,Lotus-Renault,17,Water leak,19,0,2011,Hungary,11
+1,1,Sebastian Vettel,Red Bull Racing-Renault,44,1:26:44.893,1,25,2011,Belgium,12
+2,2,Mark Webber,Red Bull Racing-Renault,44,+3.7 secs,3,18,2011,Belgium,12
+3,4,Jenson Button,McLaren-Mercedes,44,+9.6 secs,13,15,2011,Belgium,12
+4,5,Fernando Alonso,Ferrari,44,+13.0 secs,8,12,2011,Belgium,12
+5,7,Michael Schumacher,Mercedes,44,+47.4 secs,24,10,2011,Belgium,12
+6,8,Nico Rosberg,Mercedes,44,+48.6 secs,5,8,2011,Belgium,12
+7,14,Adrian Sutil,Force India-Mercedes,44,+59.7 secs,15,6,2011,Belgium,12
+8,6,Felipe Massa,Ferrari,44,+66.0 secs,4,4,2011,Belgium,12
+9,10,Vitaly Petrov,Renault,44,+71.9 secs,10,2,2011,Belgium,12
+10,12,Pastor Maldonado,Williams-Cosworth,44,+77.6 secs,21,1,2011,Belgium,12
+11,15,Paul di Resta,Force India-Mercedes,44,+83.9 secs,17,0,2011,Belgium,12
+12,16,Kamui Kobayashi,Sauber-Ferrari,44,+91.9 secs,12,0,2011,Belgium,12
+13,9,Bruno Senna,Renault,44,+92.9 secs,7,0,2011,Belgium,12
+14,21,Jarno Trulli,Lotus-Renault,43,+1 Lap,18,0,2011,Belgium,12
+15,20,Heikki Kovalainen,Lotus-Renault,43,+1 Lap,16,0,2011,Belgium,12
+16,11,Rubens Barrichello,Williams-Cosworth,43,+1 Lap,14,0,2011,Belgium,12
+17,25,Jerome D'Ambrosio,Virgin-Cosworth,43,+1 Lap,20,0,2011,Belgium,12
+18,24,Timo Glock,Virgin-Cosworth,43,+1 Lap,19,0,2011,Belgium,12
+19,23,Vitantonio Liuzzi,HRT-Cosworth,43,+1 Lap,22,0,2011,Belgium,12
+Ret,17,Sergio Perez,Sauber-Ferrari,27,Rear axle,9,0,2011,Belgium,12
+Ret,22,Daniel Ricciardo,HRT-Cosworth,13,Mechanical,23,0,2011,Belgium,12
+Ret,3,Lewis Hamilton,McLaren-Mercedes,12,Accident,2,0,2011,Belgium,12
+Ret,18,Sebastien Buemi,STR-Ferrari,6,Accident damage,11,0,2011,Belgium,12
+Ret,19,Jaime Alguersuari,STR-Ferrari,0,Accident damage,6,0,2011,Belgium,12
+1,1,Sebastian Vettel,Red Bull Racing-Renault,53,1:20:46.172,1,25,2011,Italy,13
+2,4,Jenson Button,McLaren-Mercedes,53,+9.5 secs,3,18,2011,Italy,13
+3,5,Fernando Alonso,Ferrari,53,+16.9 secs,4,15,2011,Italy,13
+4,3,Lewis Hamilton,McLaren-Mercedes,53,+17.4 secs,2,12,2011,Italy,13
+5,7,Michael Schumacher,Mercedes,53,+32.6 secs,8,10,2011,Italy,13
+6,6,Felipe Massa,Ferrari,53,+42.9 secs,6,8,2011,Italy,13
+7,19,Jaime Alguersuari,STR-Ferrari,52,+1 Lap,18,6,2011,Italy,13
+8,15,Paul di Resta,Force India-Mercedes,52,+1 Lap,11,4,2011,Italy,13
+9,9,Bruno Senna,Renault,52,+1 Lap,10,2,2011,Italy,13
+10,18,Sebastien Buemi,STR-Ferrari,52,+1 Lap,16,1,2011,Italy,13
+11,12,Pastor Maldonado,Williams-Cosworth,52,+1 Lap,14,0,2011,Italy,13
+12,11,Rubens Barrichello,Williams-Cosworth,52,+1 Lap,13,0,2011,Italy,13
+13,20,Heikki Kovalainen,Lotus-Renault,51,+2 Laps,20,0,2011,Italy,13
+14,21,Jarno Trulli,Lotus-Renault,51,+2 Laps,19,0,2011,Italy,13
+15,24,Timo Glock,Virgin-Cosworth,51,+2 Laps,21,0,2011,Italy,13
+NC,22,Daniel Ricciardo,HRT-Cosworth,39,+14 Laps,23,0,2011,Italy,13
+Ret,17,Sergio Perez,Sauber-Ferrari,32,Gearbox,15,0,2011,Italy,13
+Ret,16,Kamui Kobayashi,Sauber-Ferrari,21,Gearbox,17,0,2011,Italy,13
+Ret,14,Adrian Sutil,Force India-Mercedes,9,Steering,12,0,2011,Italy,13
+Ret,2,Mark Webber,Red Bull Racing-Renault,4,Accident,5,0,2011,Italy,13
+Ret,25,Jerome D'Ambrosio,Virgin-Cosworth,1,Gearbox,22,0,2011,Italy,13
+Ret,10,Vitaly Petrov,Renault,0,Accident,7,0,2011,Italy,13
+Ret,8,Nico Rosberg,Mercedes,0,Accident,9,0,2011,Italy,13
+Ret,23,Vitantonio Liuzzi,HRT-Cosworth,0,Accident,24,0,2011,Italy,13
+1,1,Sebastian Vettel,Red Bull Racing-Renault,61,1:59:06.757,1,25,2011,Singapore,14
+2,4,Jenson Button,McLaren-Mercedes,61,+1.7 secs,3,18,2011,Singapore,14
+3,2,Mark Webber,Red Bull Racing-Renault,61,+29.2 secs,2,15,2011,Singapore,14
+4,5,Fernando Alonso,Ferrari,61,+55.4 secs,5,12,2011,Singapore,14
+5,3,Lewis Hamilton,McLaren-Mercedes,61,+67.7 secs,4,10,2011,Singapore,14
+6,15,Paul di Resta,Force India-Mercedes,61,+111.067 secs,10,8,2011,Singapore,14
+7,8,Nico Rosberg,Mercedes,60,+1 Lap,7,6,2011,Singapore,14
+8,14,Adrian Sutil,Force India-Mercedes,60,+1 Lap,9,4,2011,Singapore,14
+9,6,Felipe Massa,Ferrari,60,+1 Lap,6,2,2011,Singapore,14
+10,17,Sergio Perez,Sauber-Ferrari,60,+1 Lap,11,1,2011,Singapore,14
+11,12,Pastor Maldonado,Williams-Cosworth,60,+1 Lap,13,0,2011,Singapore,14
+12,18,Sebastien Buemi,STR-Ferrari,60,+1 Lap,14,0,2011,Singapore,14
+13,11,Rubens Barrichello,Williams-Cosworth,60,+1 Lap,12,0,2011,Singapore,14
+14,16,Kamui Kobayashi,Sauber-Ferrari,59,+2 Laps,17,0,2011,Singapore,14
+15,9,Bruno Senna,Renault,59,+2 Laps,15,0,2011,Singapore,14
+16,20,Heikki Kovalainen,Lotus-Renault,59,+2 Laps,19,0,2011,Singapore,14
+17,10,Vitaly Petrov,Renault,59,+2 Laps,18,0,2011,Singapore,14
+18,25,Jerome D'Ambrosio,Virgin-Cosworth,59,+2 Laps,22,0,2011,Singapore,14
+19,22,Daniel Ricciardo,HRT-Cosworth,57,+4 Laps,23,0,2011,Singapore,14
+20,23,Vitantonio Liuzzi,HRT-Cosworth,57,+4 Laps,24,0,2011,Singapore,14
+21,19,Jaime Alguersuari,STR-Ferrari,56,Accident,16,0,2011,Singapore,14
+Ret,21,Jarno Trulli,Lotus-Renault,47,Gearbox,20,0,2011,Singapore,14
+Ret,7,Michael Schumacher,Mercedes,28,Accident,8,0,2011,Singapore,14
+Ret,24,Timo Glock,Virgin-Cosworth,9,Accident damage,21,0,2011,Singapore,14
+1,4,Jenson Button,McLaren-Mercedes,53,1:30:53.427,2,25,2011,Japan,15
+2,5,Fernando Alonso,Ferrari,53,+1.1 secs,5,18,2011,Japan,15
+3,1,Sebastian Vettel,Red Bull Racing-Renault,53,+2.0 secs,1,15,2011,Japan,15
+4,2,Mark Webber,Red Bull Racing-Renault,53,+8.0 secs,6,12,2011,Japan,15
+5,3,Lewis Hamilton,McLaren-Mercedes,53,+24.2 secs,3,10,2011,Japan,15
+6,7,Michael Schumacher,Mercedes,53,+27.1 secs,8,8,2011,Japan,15
+7,6,Felipe Massa,Ferrari,53,+28.2 secs,4,6,2011,Japan,15
+8,17,Sergio Perez,Sauber-Ferrari,53,+39.3 secs,17,4,2011,Japan,15
+9,10,Vitaly Petrov,Renault,53,+42.6 secs,10,2,2011,Japan,15
+10,8,Nico Rosberg,Mercedes,53,+44.3 secs,23,1,2011,Japan,15
+11,14,Adrian Sutil,Force India-Mercedes,53,+54.4 secs,11,0,2011,Japan,15
+12,15,Paul di Resta,Force India-Mercedes,53,+62.3 secs,12,0,2011,Japan,15
+13,16,Kamui Kobayashi,Sauber-Ferrari,53,+63.7 secs,7,0,2011,Japan,15
+14,12,Pastor Maldonado,Williams-Cosworth,53,+64.1 secs,14,0,2011,Japan,15
+15,19,Jaime Alguersuari,STR-Ferrari,53,+66.6 secs,16,0,2011,Japan,15
+16,9,Bruno Senna,Renault,53,+72.6 secs,9,0,2011,Japan,15
+17,11,Rubens Barrichello,Williams-Cosworth,53,+74.1 secs,13,0,2011,Japan,15
+18,20,Heikki Kovalainen,Lotus-Renault,53,+87.8 secs,18,0,2011,Japan,15
+19,21,Jarno Trulli,Lotus-Renault,53,+96.1 secs,19,0,2011,Japan,15
+20,24,Timo Glock,Virgin-Cosworth,51,+2 Laps,21,0,2011,Japan,15
+21,25,Jerome D'Ambrosio,Virgin-Cosworth,51,+2 Laps,20,0,2011,Japan,15
+22,22,Daniel Ricciardo,HRT-Cosworth,51,+2 Laps,22,0,2011,Japan,15
+23,23,Vitantonio Liuzzi,HRT-Cosworth,50,+3 Laps,24,0,2011,Japan,15
+Ret,18,Sebastien Buemi,STR-Ferrari,11,Wheel,15,0,2011,Japan,15
+1,1,Sebastian Vettel,Red Bull Racing-Renault,55,1:38:01.994,2,25,2011,Korea,16
+2,3,Lewis Hamilton,McLaren-Mercedes,55,+12.0 secs,1,18,2011,Korea,16
+3,2,Mark Webber,Red Bull Racing-Renault,55,+12.4 secs,4,15,2011,Korea,16
+4,4,Jenson Button,McLaren-Mercedes,55,+14.6 secs,3,12,2011,Korea,16
+5,5,Fernando Alonso,Ferrari,55,+15.6 secs,6,10,2011,Korea,16
+6,6,Felipe Massa,Ferrari,55,+25.1 secs,5,8,2011,Korea,16
+7,19,Jaime Alguersuari,STR-Ferrari,55,+49.5 secs,11,6,2011,Korea,16
+8,8,Nico Rosberg,Mercedes,55,+54.0 secs,7,4,2011,Korea,16
+9,18,Sebastien Buemi,STR-Ferrari,55,+62.7 secs,13,2,2011,Korea,16
+10,15,Paul di Resta,Force India-Mercedes,55,+68.6 secs,9,1,2011,Korea,16
+11,14,Adrian Sutil,Force India-Mercedes,55,+71.2 secs,10,0,2011,Korea,16
+12,11,Rubens Barrichello,Williams-Cosworth,55,+93.0 secs,18,0,2011,Korea,16
+13,9,Bruno Senna,Renault,54,+1 Lap,15,0,2011,Korea,16
+14,20,Heikki Kovalainen,Lotus-Renault,54,+1 Lap,19,0,2011,Korea,16
+15,16,Kamui Kobayashi,Sauber-Ferrari,54,+1 Lap,14,0,2011,Korea,16
+16,17,Sergio Perez,Sauber-Ferrari,54,+1 Lap,17,0,2011,Korea,16
+17,21,Jarno Trulli,Lotus-Renault,54,+1 Lap,20,0,2011,Korea,16
+18,24,Timo Glock,Virgin-Cosworth,54,+1 Lap,21,0,2011,Korea,16
+19,22,Daniel Ricciardo,HRT-Cosworth,54,+1 Lap,24,0,2011,Korea,16
+20,25,Jerome D'Ambrosio,Virgin-Cosworth,54,+1 Lap,22,0,2011,Korea,16
+21,23,Vitantonio Liuzzi,HRT-Cosworth,52,+3 Laps,23,0,2011,Korea,16
+Ret,12,Pastor Maldonado,Williams-Cosworth,30,Engine,16,0,2011,Korea,16
+Ret,10,Vitaly Petrov,Renault,16,Accident,8,0,2011,Korea,16
+Ret,7,Michael Schumacher,Mercedes,15,Accident,12,0,2011,Korea,16
+1,1,Sebastian Vettel,Red Bull Racing-Renault,60,1:30:35.002,1,25,2011,India,17
+2,4,Jenson Button,McLaren-Mercedes,60,+8.4 secs,4,18,2011,India,17
+3,5,Fernando Alonso,Ferrari,60,+24.3 secs,3,15,2011,India,17
+4,2,Mark Webber,Red Bull Racing-Renault,60,+25.5 secs,2,12,2011,India,17
+5,7,Michael Schumacher,Mercedes,60,+65.4 secs,11,10,2011,India,17
+6,8,Nico Rosberg,Mercedes,60,+66.8 secs,7,8,2011,India,17
+7,3,Lewis Hamilton,McLaren-Mercedes,60,+84.1 secs,5,6,2011,India,17
+8,19,Jaime Alguersuari,STR-Ferrari,59,+1 Lap,10,4,2011,India,17
+9,14,Adrian Sutil,Force India-Mercedes,59,+1 Lap,8,2,2011,India,17
+10,17,Sergio Perez,Sauber-Ferrari,59,+1 Lap,20,1,2011,India,17
+11,10,Vitaly Petrov,Renault,59,+1 Lap,16,0,2011,India,17
+12,9,Bruno Senna,Renault,59,+1 Lap,14,0,2011,India,17
+13,15,Paul di Resta,Force India-Mercedes,59,+1 Lap,12,0,2011,India,17
+14,20,Heikki Kovalainen,Lotus-Renault,58,+2 Laps,18,0,2011,India,17
+15,11,Rubens Barrichello,Williams-Cosworth,58,+2 Laps,15,0,2011,India,17
+16,25,Jerome D'Ambrosio,Virgin-Cosworth,57,+3 Laps,21,0,2011,India,17
+17,22,Narain Karthikeyan,HRT-Cosworth,57,+3 Laps,24,0,2011,India,17
+18,23,Daniel Ricciardo,HRT-Cosworth,57,+3 Laps,23,0,2011,India,17
+19,21,Jarno Trulli,Lotus-Renault,55,+5 Laps,19,0,2011,India,17
+Ret,6,Felipe Massa,Ferrari,32,Suspension,6,0,2011,India,17
+Ret,18,Sebastien Buemi,STR-Ferrari,24,Technical,9,0,2011,India,17
+Ret,12,Pastor Maldonado,Williams-Cosworth,12,Gearbox,13,0,2011,India,17
+Ret,24,Timo Glock,Virgin-Cosworth,2,Accident damage,22,0,2011,India,17
+Ret,16,Kamui Kobayashi,Sauber-Ferrari,0,Accident damage,17,0,2011,India,17
+1,3,Lewis Hamilton,McLaren-Mercedes,55,1:37:11.886,2,25,2011,Abu Dhabi,18
+2,5,Fernando Alonso,Ferrari,55,+8.4 secs,5,18,2011,Abu Dhabi,18
+3,4,Jenson Button,McLaren-Mercedes,55,+25.8 secs,3,15,2011,Abu Dhabi,18
+4,2,Mark Webber,Red Bull Racing-Renault,55,+35.7 secs,4,12,2011,Abu Dhabi,18
+5,6,Felipe Massa,Ferrari,55,+50.5 secs,6,10,2011,Abu Dhabi,18
+6,8,Nico Rosberg,Mercedes,55,+52.3 secs,7,8,2011,Abu Dhabi,18
+7,7,Michael Schumacher,Mercedes,55,+75.9 secs,8,6,2011,Abu Dhabi,18
+8,14,Adrian Sutil,Force India-Mercedes,55,+77.1 secs,9,4,2011,Abu Dhabi,18
+9,15,Paul di Resta,Force India-Mercedes,55,+101.087 secs,10,2,2011,Abu Dhabi,18
+10,16,Kamui Kobayashi,Sauber-Ferrari,54,+1 Lap,16,1,2011,Abu Dhabi,18
+11,17,Sergio Perez,Sauber-Ferrari,54,+1 Lap,11,0,2011,Abu Dhabi,18
+12,11,Rubens Barrichello,Williams-Cosworth,54,+1 Lap,24,0,2011,Abu Dhabi,18
+13,10,Vitaly Petrov,Renault,54,+1 Lap,12,0,2011,Abu Dhabi,18
+14,12,Pastor Maldonado,Williams-Cosworth,54,+1 Lap,23,0,2011,Abu Dhabi,18
+15,19,Jaime Alguersuari,STR-Ferrari,54,+1 Lap,15,0,2011,Abu Dhabi,18
+16,9,Bruno Senna,Renault,54,+1 Lap,14,0,2011,Abu Dhabi,18
+17,20,Heikki Kovalainen,Lotus-Renault,54,+1 Lap,17,0,2011,Abu Dhabi,18
+18,21,Jarno Trulli,Lotus-Renault,53,+2 Laps,18,0,2011,Abu Dhabi,18
+19,24,Timo Glock,Virgin-Cosworth,53,+2 Laps,19,0,2011,Abu Dhabi,18
+20,23,Vitantonio Liuzzi,HRT-Cosworth,53,+2 Laps,22,0,2011,Abu Dhabi,18
+Ret,22,Daniel Ricciardo,HRT-Cosworth,48,Electrical,20,0,2011,Abu Dhabi,18
+Ret,18,Sebastien Buemi,STR-Ferrari,19,Hydraulics,13,0,2011,Abu Dhabi,18
+Ret,25,Jerome D'Ambrosio,Virgin-Cosworth,18,Brakes,21,0,2011,Abu Dhabi,18
+Ret,1,Sebastian Vettel,Red Bull Racing-Renault,1,Puncture damage,1,0,2011,Abu Dhabi,18
+1,2,Mark Webber,Red Bull Racing-Renault,71,1:32:17.464,2,25,2011,Brasil,19
+2,1,Sebastian Vettel,Red Bull Racing-Renault,71,+16.9 secs,1,18,2011,Brasil,19
+3,4,Jenson Button,McLaren-Mercedes,71,+27.6 secs,3,15,2011,Brasil,19
+4,5,Fernando Alonso,Ferrari,71,+35.0 secs,5,12,2011,Brasil,19
+5,6,Felipe Massa,Ferrari,71,+66.7 secs,7,10,2011,Brasil,19
+6,14,Adrian Sutil,Force India-Mercedes,70,+1 Lap,8,8,2011,Brasil,19
+7,8,Nico Rosberg,Mercedes,70,+1 Lap,6,6,2011,Brasil,19
+8,15,Paul di Resta,Force India-Mercedes,70,+1 Lap,11,4,2011,Brasil,19
+9,16,Kamui Kobayashi,Sauber-Ferrari,70,+1 Lap,16,2,2011,Brasil,19
+10,10,Vitaly Petrov,Renault,70,+1 Lap,15,1,2011,Brasil,19
+11,19,Jaime Alguersuari,STR-Ferrari,70,+1 Lap,13,0,2011,Brasil,19
+12,18,Sebastien Buemi,STR-Ferrari,70,+1 Lap,14,0,2011,Brasil,19
+13,17,Sergio Perez,Sauber-Ferrari,70,+1 Lap,17,0,2011,Brasil,19
+14,11,Rubens Barrichello,Williams-Cosworth,70,+1 Lap,12,0,2011,Brasil,19
+15,7,Michael Schumacher,Mercedes,70,+1 Lap,10,0,2011,Brasil,19
+16,20,Heikki Kovalainen,Lotus-Renault,69,+2 Laps,19,0,2011,Brasil,19
+17,9,Bruno Senna,Renault,69,+2 Laps,9,0,2011,Brasil,19
+18,21,Jarno Trulli,Lotus-Renault,69,+2 Laps,20,0,2011,Brasil,19
+19,25,Jerome D'Ambrosio,Virgin-Cosworth,68,+3 Laps,23,0,2011,Brasil,19
+20,22,Daniel Ricciardo,HRT-Cosworth,68,+3 Laps,22,0,2011,Brasil,19
+Ret,23,Vitantonio Liuzzi,HRT-Cosworth,61,Alternator,21,0,2011,Brasil,19
+Ret,3,Lewis Hamilton,McLaren-Mercedes,46,Gearbox,4,0,2011,Brasil,19
+Ret,12,Pastor Maldonado,Williams-Cosworth,26,Spin,18,0,2011,Brasil,19
+Ret,24,Timo Glock,Virgin-Cosworth,21,Wheel,24,0,2011,Brasil,19
+1,3,Jenson Button,McLaren-Mercedes,58,1:34:09.565,2,25,2012,Austalia,1
+2,1,Sebastian Vettel,Red Bull Racing-Renault,58,+2.1 secs,6,18,2012,Austalia,1
+3,4,Lewis Hamilton,McLaren-Mercedes,58,+4.0 secs,1,15,2012,Austalia,1
+4,2,Mark Webber,Red Bull Racing-Renault,58,+4.5 secs,5,12,2012,Austalia,1
+5,5,Fernando Alonso,Ferrari,58,+21.5 secs,12,10,2012,Austalia,1
+6,14,Kamui Kobayashi,Sauber-Ferrari,58,+36.7 secs,13,8,2012,Austalia,1
+7,9,Kimi Räikkönen,Lotus-Renault,58,+38.0 secs,17,6,2012,Austalia,1
+8,15,Sergio Perez,Sauber-Ferrari,58,+39.4 secs,22,4,2012,Austalia,1
+9,16,Daniel Ricciardo,STR-Ferrari,58,+39.5 secs,10,2,2012,Austalia,1
+10,11,Paul di Resta,Force India-Mercedes,58,+39.7 secs,15,1,2012,Austalia,1
+11,17,Jean-Eric Vergne,STR-Ferrari,58,+39.8 secs,11,0,2012,Austalia,1
+12,8,Nico Rosberg,Mercedes,58,+57.6 secs,7,0,2012,Austalia,1
+13,18,Pastor Maldonado,Williams-Renault,57,Accident,8,0,2012,Austalia,1
+14,24,Timo Glock,Marussia-Cosworth,57,+1 Lap,20,0,2012,Austalia,1
+15,25,Charles Pic,Marussia-Cosworth,53,Oil pressure,21,0,2012,Austalia,1
+16,19,Bruno Senna,Williams-Renault,52,Accident damage,14,0,2012,Austalia,1
+DNQ,22,Pedro de la Rosa,HRT-Cosworth,,,,0,2012,Austalia,1
+DNQ,23,Narain Karthikeyan,HRT-Cosworth,,,,0,2012,Austalia,1
+Ret,6,Felipe Massa,Ferrari,46,Accident damage,16,0,2012,Austalia,1
+Ret,20,Heikki Kovalainen,Caterham-Renault,38,Suspension,18,0,2012,Austalia,1
+Ret,21,Vitaly Petrov,Caterham-Renault,34,Steering,19,0,2012,Austalia,1
+Ret,7,Michael Schumacher,Mercedes,10,Gearbox,4,0,2012,Austalia,1
+Ret,10,Romain Grosjean,Lotus-Renault,1,Accident,3,0,2012,Austalia,1
+Ret,12,Nico Hulkenberg,Force India-Mercedes,0,Accident damage,9,0,2012,Austalia,1
+1,5,Fernando Alonso,Ferrari,56,2:44:51.812,8,25,2012,Malaysia,2
+2,15,Sergio Perez,Sauber-Ferrari,56,+2.2 secs,9,18,2012,Malaysia,2
+3,4,Lewis Hamilton,McLaren-Mercedes,56,+14.5 secs,1,15,2012,Malaysia,2
+4,2,Mark Webber,Red Bull Racing-Renault,56,+17.6 secs,4,12,2012,Malaysia,2
+5,9,Kimi Räikkönen,Lotus-Renault,56,+29.4 secs,10,10,2012,Malaysia,2
+6,19,Bruno Senna,Williams-Renault,56,+37.6 secs,13,8,2012,Malaysia,2
+7,11,Paul di Resta,Force India-Mercedes,56,+44.4 secs,14,6,2012,Malaysia,2
+8,17,Jean-Eric Vergne,STR-Ferrari,56,+46.9 secs,18,4,2012,Malaysia,2
+9,12,Nico Hulkenberg,Force India-Mercedes,56,+47.8 secs,16,2,2012,Malaysia,2
+10,7,Michael Schumacher,Mercedes,56,+49.9 secs,3,1,2012,Malaysia,2
+11,1,Sebastian Vettel,Red Bull Racing-Renault,56,+75.5 secs,5,0,2012,Malaysia,2
+12,16,Daniel Ricciardo,STR-Ferrari,56,+76.8 secs,15,0,2012,Malaysia,2
+13,8,Nico Rosberg,Mercedes,56,+78.5 secs,7,0,2012,Malaysia,2
+14,3,Jenson Button,McLaren-Mercedes,56,+79.7 secs,2,0,2012,Malaysia,2
+15,6,Felipe Massa,Ferrari,56,+97.3 secs,12,0,2012,Malaysia,2
+16,21,Vitaly Petrov,Caterham-Renault,55,+1 Lap,19,0,2012,Malaysia,2
+17,24,Timo Glock,Marussia-Cosworth,55,+1 Lap,20,0,2012,Malaysia,2
+18,20,Heikki Kovalainen,Caterham-Renault,55,+1 Lap,24,0,2012,Malaysia,2
+19,18,Pastor Maldonado,Williams-Renault,54,Engine,11,0,2012,Malaysia,2
+20,25,Charles Pic,Marussia-Cosworth,54,+2 Laps,21,0,2012,Malaysia,2
+21,22,Pedro de la Rosa,HRT-Cosworth,54,+2 Laps,22,0,2012,Malaysia,2
+22,23,Narain Karthikeyan,HRT-Cosworth,54,+2 Laps,23,0,2012,Malaysia,2
+Ret,14,Kamui Kobayashi,Sauber-Ferrari,46,Brakes,17,0,2012,Malaysia,2
+Ret,10,Romain Grosjean,Lotus-Renault,3,Spin,6,0,2012,Malaysia,2
+1,8,Nico Rosberg,Mercedes,56,1:36:26.929,1,25,2012,China,3
+2,3,Jenson Button,McLaren-Mercedes,56,+20.6 secs,5,18,2012,China,3
+3,4,Lewis Hamilton,McLaren-Mercedes,56,+26.0 secs,7,15,2012,China,3
+4,2,Mark Webber,Red Bull Racing-Renault,56,+27.9 secs,6,12,2012,China,3
+5,1,Sebastian Vettel,Red Bull Racing-Renault,56,+30.4 secs,11,10,2012,China,3
+6,10,Romain Grosjean,Lotus-Renault,56,+31.4 secs,10,8,2012,China,3
+7,19,Bruno Senna,Williams-Renault,56,+34.5 secs,14,6,2012,China,3
+8,18,Pastor Maldonado,Williams-Renault,56,+35.6 secs,13,4,2012,China,3
+9,5,Fernando Alonso,Ferrari,56,+37.2 secs,9,2,2012,China,3
+10,14,Kamui Kobayashi,Sauber-Ferrari,56,+38.7 secs,3,1,2012,China,3
+11,15,Sergio Perez,Sauber-Ferrari,56,+41.0 secs,8,0,2012,China,3
+12,11,Paul di Resta,Force India-Mercedes,56,+42.2 secs,15,0,2012,China,3
+13,6,Felipe Massa,Ferrari,56,+42.7 secs,12,0,2012,China,3
+14,9,Kimi Räikkönen,Lotus-Renault,56,+50.5 secs,4,0,2012,China,3
+15,12,Nico Hulkenberg,Force India-Mercedes,56,+51.2 secs,16,0,2012,China,3
+16,17,Jean-Eric Vergne,STR-Ferrari,56,+51.7 secs,24,0,2012,China,3
+17,16,Daniel Ricciardo,STR-Ferrari,56,+63.1 secs,17,0,2012,China,3
+18,21,Vitaly Petrov,Caterham-Renault,55,+1 Lap,19,0,2012,China,3
+19,24,Timo Glock,Marussia-Cosworth,55,+1 Lap,20,0,2012,China,3
+20,25,Charles Pic,Marussia-Cosworth,55,+1 Lap,21,0,2012,China,3
+21,22,Pedro de la Rosa,HRT-Cosworth,55,+1 Lap,22,0,2012,China,3
+22,23,Narain Karthikeyan,HRT-Cosworth,54,+2 Laps,23,0,2012,China,3
+23,20,Heikki Kovalainen,Caterham-Renault,53,+3 Laps,18,0,2012,China,3
+Ret,7,Michael Schumacher,Mercedes,12,Wheel,2,0,2012,China,3
+1,1,Sebastian Vettel,Red Bull Racing-Renault,57,1:35:10.990,1,25,2012,Bahrain,4
+2,9,Kimi Räikkönen,Lotus-Renault,57,+3.3 secs,11,18,2012,Bahrain,4
+3,10,Romain Grosjean,Lotus-Renault,57,+10.1 secs,7,15,2012,Bahrain,4
+4,2,Mark Webber,Red Bull Racing-Renault,57,+38.7 secs,3,12,2012,Bahrain,4
+5,8,Nico Rosberg,Mercedes,57,+55.4 secs,5,10,2012,Bahrain,4
+6,11,Paul di Resta,Force India-Mercedes,57,+57.5 secs,10,8,2012,Bahrain,4
+7,5,Fernando Alonso,Ferrari,57,+57.8 secs,9,6,2012,Bahrain,4
+8,4,Lewis Hamilton,McLaren-Mercedes,57,+58.9 secs,2,4,2012,Bahrain,4
+9,6,Felipe Massa,Ferrari,57,+64.9 secs,14,2,2012,Bahrain,4
+10,7,Michael Schumacher,Mercedes,57,+71.4 secs,22,1,2012,Bahrain,4
+11,15,Sergio Perez,Sauber-Ferrari,57,+72.7 secs,8,0,2012,Bahrain,4
+12,12,Nico Hulkenberg,Force India-Mercedes,57,+76.5 secs,13,0,2012,Bahrain,4
+13,14,Kamui Kobayashi,Sauber-Ferrari,57,+90.3 secs,12,0,2012,Bahrain,4
+14,17,Jean-Eric Vergne,STR-Ferrari,57,+93.7 secs,17,0,2012,Bahrain,4
+15,16,Daniel Ricciardo,STR-Ferrari,56,+1 Lap,6,0,2012,Bahrain,4
+16,21,Vitaly Petrov,Caterham-Renault,56,+1 Lap,18,0,2012,Bahrain,4
+17,20,Heikki Kovalainen,Caterham-Renault,56,+1 Lap,16,0,2012,Bahrain,4
+18,3,Jenson Button,McLaren-Mercedes,55,Exhaust/differential,4,0,2012,Bahrain,4
+19,24,Timo Glock,Marussia-Cosworth,55,+2 Laps,23,0,2012,Bahrain,4
+20,22,Pedro de la Rosa,HRT-Cosworth,55,+2 Laps,20,0,2012,Bahrain,4
+21,23,Narain Karthikeyan,HRT-Cosworth,55,+2 Laps,24,0,2012,Bahrain,4
+22,19,Bruno Senna,Williams-Renault,54,Retired,15,0,2012,Bahrain,4
+Ret,18,Pastor Maldonado,Williams-Renault,25,Puncture,21,0,2012,Bahrain,4
+Ret,25,Charles Pic,Marussia-Cosworth,24,Engine,19,0,2012,Bahrain,4
+1,18,Pastor Maldonado,Williams-Renault,66,1:39:09.145,1,25,2012,Spain,5
+2,5,Fernando Alonso,Ferrari,66,+3.1 secs,2,18,2012,Spain,5
+3,9,Kimi Räikkönen,Lotus-Renault,66,+3.8 secs,4,15,2012,Spain,5
+4,10,Romain Grosjean,Lotus-Renault,66,+14.7 secs,3,12,2012,Spain,5
+5,14,Kamui Kobayashi,Sauber-Ferrari,66,+64.6 secs,9,10,2012,Spain,5
+6,1,Sebastian Vettel,Red Bull Racing-Renault,66,+67.5 secs,7,8,2012,Spain,5
+7,8,Nico Rosberg,Mercedes,66,+77.9 secs,6,6,2012,Spain,5
+8,4,Lewis Hamilton,McLaren-Mercedes,66,+78.1 secs,24,4,2012,Spain,5
+9,3,Jenson Button,McLaren-Mercedes,66,+85.2 secs,10,2,2012,Spain,5
+10,12,Nico Hulkenberg,Force India-Mercedes,65,+1 Lap,13,1,2012,Spain,5
+11,2,Mark Webber,Red Bull Racing-Renault,65,+1 Lap,11,0,2012,Spain,5
+12,17,Jean-Eric Vergne,STR-Ferrari,65,+1 Lap,14,0,2012,Spain,5
+13,16,Daniel Ricciardo,STR-Ferrari,65,+1 Lap,15,0,2012,Spain,5
+14,11,Paul di Resta,Force India-Mercedes,65,+1 Lap,12,0,2012,Spain,5
+15,6,Felipe Massa,Ferrari,65,+1 Lap,16,0,2012,Spain,5
+16,20,Heikki Kovalainen,Caterham-Renault,65,+1 Lap,19,0,2012,Spain,5
+17,21,Vitaly Petrov,Caterham-Renault,65,+1 Lap,18,0,2012,Spain,5
+18,24,Timo Glock,Marussia-Cosworth,64,+2 Laps,21,0,2012,Spain,5
+19,22,Pedro de la Rosa,HRT-Cosworth,63,+3 Laps,22,0,2012,Spain,5
+Ret,15,Sergio Perez,Sauber-Ferrari,37,Transmission,5,0,2012,Spain,5
+Ret,25,Charles Pic,Marussia-Cosworth,35,Driveshaft,20,0,2012,Spain,5
+Ret,23,Narain Karthikeyan,HRT-Cosworth,22,Wheel nut,23,0,2012,Spain,5
+Ret,19,Bruno Senna,Williams-Renault,12,Accident damage,17,0,2012,Spain,5
+Ret,7,Michael Schumacher,Mercedes,12,Accident,8,0,2012,Spain,5
+1,2,Mark Webber,Red Bull Racing-Renault,78,1:46:06.557,1,25,2012,Monaco,6
+2,8,Nico Rosberg,Mercedes,78,+0.6 secs,2,18,2012,Monaco,6
+3,5,Fernando Alonso,Ferrari,78,+0.9 secs,5,15,2012,Monaco,6
+4,1,Sebastian Vettel,Red Bull Racing-Renault,78,+1.3 secs,9,12,2012,Monaco,6
+5,4,Lewis Hamilton,McLaren-Mercedes,78,+4.1 secs,3,10,2012,Monaco,6
+6,6,Felipe Massa,Ferrari,78,+6.1 secs,7,8,2012,Monaco,6
+7,11,Paul di Resta,Force India-Mercedes,78,+41.5 secs,14,6,2012,Monaco,6
+8,12,Nico Hulkenberg,Force India-Mercedes,78,+42.5 secs,10,4,2012,Monaco,6
+9,9,Kimi Räikkönen,Lotus-Renault,78,+44.0 secs,8,2,2012,Monaco,6
+10,19,Bruno Senna,Williams-Renault,78,+44.5 secs,13,1,2012,Monaco,6
+11,15,Sergio Perez,Sauber-Ferrari,77,+1 Lap,23,0,2012,Monaco,6
+12,17,Jean-Eric Vergne,STR-Ferrari,77,+1 Lap,16,0,2012,Monaco,6
+13,20,Heikki Kovalainen,Caterham-Renault,77,+1 Lap,17,0,2012,Monaco,6
+14,24,Timo Glock,Marussia-Cosworth,77,+1 Lap,19,0,2012,Monaco,6
+15,23,Narain Karthikeyan,HRT-Cosworth,76,+2 Laps,22,0,2012,Monaco,6
+16,3,Jenson Button,McLaren-Mercedes,70,Accident damage,12,0,2012,Monaco,6
+Ret,16,Daniel Ricciardo,STR-Ferrari,65,Steering damage,15,0,2012,Monaco,6
+Ret,25,Charles Pic,Marussia-Cosworth,64,Electrical,21,0,2012,Monaco,6
+Ret,7,Michael Schumacher,Mercedes,63,Fuel pressure,6,0,2012,Monaco,6
+Ret,21,Vitaly Petrov,Caterham-Renault,15,Electrical,18,0,2012,Monaco,6
+Ret,14,Kamui Kobayashi,Sauber-Ferrari,5,Accident damage,11,0,2012,Monaco,6
+Ret,22,Pedro de la Rosa,HRT-Cosworth,0,Accident damage,20,0,2012,Monaco,6
+Ret,18,Pastor Maldonado,Williams-Renault,0,Accident,24,0,2012,Monaco,6
+Ret,10,Romain Grosjean,Lotus-Renault,0,Accident,4,0,2012,Monaco,6
+1,4,Lewis Hamilton,McLaren-Mercedes,70,1:32:29.586,2,25,2012,Canada,7
+2,10,Romain Grosjean,Lotus-Renault,70,+2.5 secs,7,18,2012,Canada,7
+3,15,Sergio Perez,Sauber-Ferrari,70,+5.2 secs,15,15,2012,Canada,7
+4,1,Sebastian Vettel,Red Bull Racing-Renault,70,+7.2 secs,1,12,2012,Canada,7
+5,5,Fernando Alonso,Ferrari,70,+13.4 secs,3,10,2012,Canada,7
+6,8,Nico Rosberg,Mercedes,70,+13.8 secs,5,8,2012,Canada,7
+7,2,Mark Webber,Red Bull Racing-Renault,70,+15.0 secs,4,6,2012,Canada,7
+8,9,Kimi Räikkönen,Lotus-Renault,70,+15.5 secs,12,4,2012,Canada,7
+9,14,Kamui Kobayashi,Sauber-Ferrari,70,+24.4 secs,11,2,2012,Canada,7
+10,6,Felipe Massa,Ferrari,70,+25.2 secs,6,1,2012,Canada,7
+11,11,Paul di Resta,Force India-Mercedes,70,+37.6 secs,8,0,2012,Canada,7
+12,12,Nico Hulkenberg,Force India-Mercedes,70,+46.2 secs,13,0,2012,Canada,7
+13,18,Pastor Maldonado,Williams-Renault,70,+47.0 secs,22,0,2012,Canada,7
+14,16,Daniel Ricciardo,STR-Ferrari,70,+64.4 secs,14,0,2012,Canada,7
+15,17,Jean-Eric Vergne,STR-Ferrari,69,+1 Lap,19,0,2012,Canada,7
+16,3,Jenson Button,McLaren-Mercedes,69,+1 Lap,10,0,2012,Canada,7
+17,19,Bruno Senna,Williams-Renault,69,+1 Lap,16,0,2012,Canada,7
+18,20,Heikki Kovalainen,Caterham-Renault,69,+1 Lap,17,0,2012,Canada,7
+19,21,Vitaly Petrov,Caterham-Renault,69,+1 Lap,18,0,2012,Canada,7
+20,25,Charles Pic,Marussia-Cosworth,67,+3 Laps,23,0,2012,Canada,7
+Ret,24,Timo Glock,Marussia-Cosworth,56,Brakes,21,0,2012,Canada,7
+Ret,7,Michael Schumacher,Mercedes,43,Rear wing,9,0,2012,Canada,7
+Ret,22,Pedro de la Rosa,HRT-Cosworth,24,Brakes,20,0,2012,Canada,7
+Ret,23,Narain Karthikeyan,HRT-Cosworth,22,Brakes,24,0,2012,Canada,7
+1,5,Fernando Alonso,Ferrari,57,1:44:16.649,11,25,2012,Europe,8
+2,9,Kimi Räikkönen,Lotus-Renault,57,+6.4 secs,5,18,2012,Europe,8
+3,7,Michael Schumacher,Mercedes,57,+12.6 secs,12,15,2012,Europe,8
+4,2,Mark Webber,Red Bull Racing-Renault,57,+13.6 secs,19,12,2012,Europe,8
+5,12,Nico Hulkenberg,Force India-Mercedes,57,+19.9 secs,8,10,2012,Europe,8
+6,8,Nico Rosberg,Mercedes,57,+21.1 secs,6,8,2012,Europe,8
+7,11,Paul di Resta,Force India-Mercedes,57,+22.8 secs,10,6,2012,Europe,8
+8,3,Jenson Button,McLaren-Mercedes,57,+24.6 secs,9,4,2012,Europe,8
+9,15,Sergio Perez,Sauber-Ferrari,57,+27.7 secs,15,2,2012,Europe,8
+10,19,Bruno Senna,Williams-Renault,57,+35.9 secs,14,1,2012,Europe,8
+11,16,Daniel Ricciardo,STR-Ferrari,57,+37.0 secs,17,0,2012,Europe,8
+12,18,Pastor Maldonado,Williams-Renault,57,+54.6 secs,3,0,2012,Europe,8
+13,21,Vitaly Petrov,Caterham-Renault,57,+75.8 secs,20,0,2012,Europe,8
+14,20,Heikki Kovalainen,Caterham-Renault,57,+94.6 secs,16,0,2012,Europe,8
+15,25,Charles Pic,Marussia-Cosworth,57,+96.5 secs,23,0,2012,Europe,8
+16,6,Felipe Massa,Ferrari,56,+1 Lap,13,0,2012,Europe,8
+17,22,Pedro de la Rosa,HRT-Cosworth,56,+1 Lap,21,0,2012,Europe,8
+18,23,Narain Karthikeyan,HRT-Cosworth,56,+1 Lap,22,0,2012,Europe,8
+19,4,Lewis Hamilton,McLaren-Mercedes,55,Accident,2,0,2012,Europe,8
+DNS,24,Timo Glock,Marussia-Cosworth,,DNS,,0,2012,Europe,8
+Ret,10,Romain Grosjean,Lotus-Renault,40,Alternator,4,0,2012,Europe,8
+Ret,1,Sebastian Vettel,Red Bull Racing-Renault,33,Alternator,1,0,2012,Europe,8
+Ret,14,Kamui Kobayashi,Sauber-Ferrari,33,Accident damage,7,0,2012,Europe,8
+Ret,17,Jean-Eric Vergne,STR-Ferrari,26,Accident damage,18,0,2012,Europe,8
+1,2,Mark Webber,Red Bull Racing-Renault,52,1:25:11.288,2,25,2012,Britain,9
+2,5,Fernando Alonso,Ferrari,52,+3.0 secs,1,18,2012,Britain,9
+3,1,Sebastian Vettel,Red Bull Racing-Renault,52,+4.8 secs,4,15,2012,Britain,9
+4,6,Felipe Massa,Ferrari,52,+9.5 secs,5,12,2012,Britain,9
+5,9,Kimi Räikkönen,Lotus-Renault,52,+10.3 secs,6,10,2012,Britain,9
+6,10,Romain Grosjean,Lotus-Renault,52,+17.1 secs,9,8,2012,Britain,9
+7,7,Michael Schumacher,Mercedes,52,+29.1 secs,3,6,2012,Britain,9
+8,4,Lewis Hamilton,McLaren-Mercedes,52,+36.4 secs,8,4,2012,Britain,9
+9,19,Bruno Senna,Williams-Renault,52,+43.3 secs,13,2,2012,Britain,9
+10,3,Jenson Button,McLaren-Mercedes,52,+44.4 secs,16,1,2012,Britain,9
+11,14,Kamui Kobayashi,Sauber-Ferrari,52,+45.3 secs,17,0,2012,Britain,9
+12,12,Nico Hulkenberg,Force India-Mercedes,52,+47.8 secs,14,0,2012,Britain,9
+13,16,Daniel Ricciardo,STR-Ferrari,52,+51.2 secs,12,0,2012,Britain,9
+14,17,Jean-Eric Vergne,STR-Ferrari,52,+53.3 secs,23,0,2012,Britain,9
+15,8,Nico Rosberg,Mercedes,52,+57.3 secs,11,0,2012,Britain,9
+16,18,Pastor Maldonado,Williams-Renault,51,+1 Lap,7,0,2012,Britain,9
+17,20,Heikki Kovalainen,Caterham-Renault,51,+1 Lap,19,0,2012,Britain,9
+18,24,Timo Glock,Marussia-Cosworth,51,+1 Lap,20,0,2012,Britain,9
+19,25,Charles Pic,Marussia-Cosworth,51,+1 Lap,24,0,2012,Britain,9
+20,22,Pedro de la Rosa,HRT-Cosworth,50,+2 Laps,21,0,2012,Britain,9
+21,23,Narain Karthikeyan,HRT-Cosworth,50,+2 Laps,22,0,2012,Britain,9
+DNS,21,Vitaly Petrov,Caterham-Renault,0,Engine,18,0,2012,Britain,9
+Ret,15,Sergio Perez,Sauber-Ferrari,11,Accident,15,0,2012,Britain,9
+Ret,11,Paul di Resta,Force India-Mercedes,2,Retired,10,0,2012,Britain,9
+1,5,Fernando Alonso,Ferrari,67,1:31:05.862,1,25,2012,Germany,10
+2,3,Jenson Button,McLaren-Mercedes,67,+6.9 secs,6,18,2012,Germany,10
+3,9,Kimi Räikkönen,Lotus-Renault,67,+16.4 secs,10,15,2012,Germany,10
+4,14,Kamui Kobayashi,Sauber-Ferrari,67,+21.9 secs,12,12,2012,Germany,10
+5,1,Sebastian Vettel,Red Bull Racing-Renault,67,+23.7 secs,2,10,2012,Germany,10
+6,15,Sergio Perez,Sauber-Ferrari,67,+27.8 secs,17,8,2012,Germany,10
+7,7,Michael Schumacher,Mercedes,67,+28.9 secs,3,6,2012,Germany,10
+8,2,Mark Webber,Red Bull Racing-Renault,67,+46.9 secs,8,4,2012,Germany,10
+9,12,Nico Hulkenberg,Force India-Mercedes,67,+48.1 secs,4,2,2012,Germany,10
+10,8,Nico Rosberg,Mercedes,67,+48.8 secs,21,1,2012,Germany,10
+11,11,Paul di Resta,Force India-Mercedes,67,+59.2 secs,9,0,2012,Germany,10
+12,6,Felipe Massa,Ferrari,67,+71.4 secs,13,0,2012,Germany,10
+13,16,Daniel Ricciardo,STR-Ferrari,67,+76.8 secs,11,0,2012,Germany,10
+14,17,Jean-Eric Vergne,STR-Ferrari,67,+76.9 secs,15,0,2012,Germany,10
+15,18,Pastor Maldonado,Williams-Renault,66,+1 Lap,5,0,2012,Germany,10
+16,21,Vitaly Petrov,Caterham-Renault,66,+1 Lap,18,0,2012,Germany,10
+17,19,Bruno Senna,Williams-Renault,66,+1 Lap,14,0,2012,Germany,10
+18,10,Romain Grosjean,Lotus-Renault,66,+1 Lap,19,0,2012,Germany,10
+19,20,Heikki Kovalainen,Caterham-Renault,65,+2 Laps,16,0,2012,Germany,10
+20,25,Charles Pic,Marussia-Cosworth,65,+2 Laps,20,0,2012,Germany,10
+21,22,Pedro de la Rosa,HRT-Cosworth,64,+3 Laps,23,0,2012,Germany,10
+22,24,Timo Glock,Marussia-Cosworth,64,+3 Laps,22,0,2012,Germany,10
+23,23,Narain Karthikeyan,HRT-Cosworth,64,+3 Laps,24,0,2012,Germany,10
+Ret,4,Lewis Hamilton,McLaren-Mercedes,56,Puncture damage,7,0,2012,Germany,10
+1,4,Lewis Hamilton,McLaren-Mercedes,69,1:41:05.503,1,25,2012,Hungary,11
+2,9,Kimi Räikkönen,Lotus-Renault,69,+1.0 secs,5,18,2012,Hungary,11
+3,10,Romain Grosjean,Lotus-Renault,69,+10.5 secs,2,15,2012,Hungary,11
+4,1,Sebastian Vettel,Red Bull Racing-Renault,69,+11.6 secs,3,12,2012,Hungary,11
+5,5,Fernando Alonso,Ferrari,69,+26.6 secs,6,10,2012,Hungary,11
+6,3,Jenson Button,McLaren-Mercedes,69,+30.2 secs,4,8,2012,Hungary,11
+7,19,Bruno Senna,Williams-Renault,69,+33.8 secs,9,6,2012,Hungary,11
+8,2,Mark Webber,Red Bull Racing-Renault,69,+34.4 secs,11,4,2012,Hungary,11
+9,6,Felipe Massa,Ferrari,69,+38.3 secs,7,2,2012,Hungary,11
+10,8,Nico Rosberg,Mercedes,69,+51.2 secs,13,1,2012,Hungary,11
+11,12,Nico Hulkenberg,Force India-Mercedes,69,+57.2 secs,10,0,2012,Hungary,11
+12,11,Paul di Resta,Force India-Mercedes,69,+62.8 secs,12,0,2012,Hungary,11
+13,18,Pastor Maldonado,Williams-Renault,69,+63.6 secs,8,0,2012,Hungary,11
+14,15,Sergio Perez,Sauber-Ferrari,69,+64.4 secs,14,0,2012,Hungary,11
+15,16,Daniel Ricciardo,STR-Ferrari,68,+1 Lap,18,0,2012,Hungary,11
+16,17,Jean-Eric Vergne,STR-Ferrari,68,+1 Lap,16,0,2012,Hungary,11
+17,20,Heikki Kovalainen,Caterham-Renault,68,+1 Lap,19,0,2012,Hungary,11
+18,14,Kamui Kobayashi,Sauber-Ferrari,67,Hydraulics,15,0,2012,Hungary,11
+19,21,Vitaly Petrov,Caterham-Renault,67,+2 Laps,20,0,2012,Hungary,11
+20,25,Charles Pic,Marussia-Cosworth,67,+2 Laps,21,0,2012,Hungary,11
+21,24,Timo Glock,Marussia-Cosworth,66,+3 Laps,22,0,2012,Hungary,11
+22,22,Pedro de la Rosa,HRT-Cosworth,66,+3 Laps,23,0,2012,Hungary,11
+Ret,23,Narain Karthikeyan,HRT-Cosworth,60,Steering,24,0,2012,Hungary,11
+Ret,7,Michael Schumacher,Mercedes,58,Technical,17,0,2012,Hungary,11
+1,3,Jenson Button,McLaren-Mercedes,44,1:29:08.530,1,25,2012,Belgium,12
+2,1,Sebastian Vettel,Red Bull Racing-Renault,44,+13.6 secs,10,18,2012,Belgium,12
+3,9,Kimi Räikkönen,Lotus-Renault,44,+25.3 secs,3,15,2012,Belgium,12
+4,12,Nico Hulkenberg,Force India-Mercedes,44,+27.8 secs,11,12,2012,Belgium,12
+5,6,Felipe Massa,Ferrari,44,+29.8 secs,14,10,2012,Belgium,12
+6,2,Mark Webber,Red Bull Racing-Renault,44,+31.2 secs,12,8,2012,Belgium,12
+7,7,Michael Schumacher,Mercedes,44,+53.3 secs,13,6,2012,Belgium,12
+8,17,Jean-Eric Vergne,STR-Ferrari,44,+58.8 secs,15,4,2012,Belgium,12
+9,16,Daniel Ricciardo,STR-Ferrari,44,+62.9 secs,16,2,2012,Belgium,12
+10,11,Paul di Resta,Force India-Mercedes,44,+63.7 secs,9,1,2012,Belgium,12
+11,8,Nico Rosberg,Mercedes,44,+65.1 secs,23,0,2012,Belgium,12
+12,19,Bruno Senna,Williams-Renault,44,+71.5 secs,17,0,2012,Belgium,12
+13,14,Kamui Kobayashi,Sauber-Ferrari,43,+1 Lap,2,0,2012,Belgium,12
+14,21,Vitaly Petrov,Caterham-Renault,43,+1 Lap,19,0,2012,Belgium,12
+15,24,Timo Glock,Marussia-Cosworth,43,+1 Lap,20,0,2012,Belgium,12
+16,25,Charles Pic,Marussia-Cosworth,43,+1 Lap,22,0,2012,Belgium,12
+17,20,Heikki Kovalainen,Caterham-Renault,43,+1 Lap,18,0,2012,Belgium,12
+18,22,Pedro de la Rosa,HRT-Cosworth,43,+1 Lap,21,0,2012,Belgium,12
+Ret,23,Narain Karthikeyan,HRT-Cosworth,29,Accident,24,0,2012,Belgium,12
+Ret,18,Pastor Maldonado,Williams-Renault,4,Accident,6,0,2012,Belgium,12
+Ret,15,Sergio Perez,Sauber-Ferrari,0,Accident,4,0,2012,Belgium,12
+Ret,5,Fernando Alonso,Ferrari,0,Accident,5,0,2012,Belgium,12
+Ret,4,Lewis Hamilton,McLaren-Mercedes,0,Accident,7,0,2012,Belgium,12
+Ret,10,Romain Grosjean,Lotus-Renault,0,Accident,8,0,2012,Belgium,12
+1,4,Lewis Hamilton,McLaren-Mercedes,53,1:19:41.221,1,25,2012,Italy,13
+2,15,Sergio Perez,Sauber-Ferrari,53,+4.3 secs,12,18,2012,Italy,13
+3,5,Fernando Alonso,Ferrari,53,+20.5 secs,10,15,2012,Italy,13
+4,6,Felipe Massa,Ferrari,53,+29.6 secs,3,12,2012,Italy,13
+5,9,Kimi Räikkönen,Lotus-Renault,53,+30.8 secs,7,10,2012,Italy,13
+6,7,Michael Schumacher,Mercedes,53,+31.2 secs,4,8,2012,Italy,13
+7,8,Nico Rosberg,Mercedes,53,+33.5 secs,6,6,2012,Italy,13
+8,11,Paul di Resta,Force India-Mercedes,53,+41.0 secs,9,4,2012,Italy,13
+9,14,Kamui Kobayashi,Sauber-Ferrari,53,+43.8 secs,8,2,2012,Italy,13
+10,19,Bruno Senna,Williams-Renault,53,+48.1 secs,13,1,2012,Italy,13
+11,18,Pastor Maldonado,Williams-Renault,53,+48.6 secs,22,0,2012,Italy,13
+12,16,Daniel Ricciardo,STR-Ferrari,53,+50.3 secs,14,0,2012,Italy,13
+13,10,Jerome D'Ambrosio,Lotus-Renault,53,+75.8 secs,15,0,2012,Italy,13
+14,20,Heikki Kovalainen,Caterham-Renault,52,+1 Lap,17,0,2012,Italy,13
+15,21,Vitaly Petrov,Caterham-Renault,52,+1 Lap,18,0,2012,Italy,13
+16,25,Charles Pic,Marussia-Cosworth,52,+1 Lap,20,0,2012,Italy,13
+17,24,Timo Glock,Marussia-Cosworth,52,+1 Lap,19,0,2012,Italy,13
+18,22,Pedro de la Rosa,HRT-Cosworth,52,+1 Lap,23,0,2012,Italy,13
+19,23,Narain Karthikeyan,HRT-Cosworth,52,+1 Lap,21,0,2012,Italy,13
+20,2,Mark Webber,Red Bull Racing-Renault,51,Spin,11,0,2012,Italy,13
+21,12,Nico Hulkenberg,Force India-Mercedes,50,Brakes,24,0,2012,Italy,13
+22,1,Sebastian Vettel,Red Bull Racing-Renault,47,Alternator,5,0,2012,Italy,13
+Ret,3,Jenson Button,McLaren-Mercedes,32,Fuel system,2,0,2012,Italy,13
+Ret,17,Jean-Eric Vergne,STR-Ferrari,8,Spin,16,0,2012,Italy,13
+1,1,Sebastian Vettel,Red Bull Racing-Renault,59,2:00:26.144,3,25,2012,Singapore,14
+2,3,Jenson Button,McLaren-Mercedes,59,+8.9 secs,4,18,2012,Singapore,14
+3,5,Fernando Alonso,Ferrari,59,+15.2 secs,5,15,2012,Singapore,14
+4,11,Paul di Resta,Force India-Mercedes,59,+19.0 secs,6,12,2012,Singapore,14
+5,8,Nico Rosberg,Mercedes,59,+34.7 secs,10,10,2012,Singapore,14
+6,9,Kimi Räikkönen,Lotus-Renault,59,+35.7 secs,12,8,2012,Singapore,14
+7,10,Romain Grosjean,Lotus-Renault,59,+36.6 secs,8,6,2012,Singapore,14
+8,6,Felipe Massa,Ferrari,59,+42.8 secs,13,4,2012,Singapore,14
+9,16,Daniel Ricciardo,STR-Ferrari,59,+45.8 secs,15,2,2012,Singapore,14
+10,15,Sergio Perez,Sauber-Ferrari,59,+50.6 secs,14,1,2012,Singapore,14
+11,2,Mark Webber,Red Bull Racing-Renault,59,+67.1 secs,7,0,2012,Singapore,14
+12,24,Timo Glock,Marussia-Cosworth,59,+91.9 secs,20,0,2012,Singapore,14
+13,14,Kamui Kobayashi,Sauber-Ferrari,59,+97.1 secs,17,0,2012,Singapore,14
+14,12,Nico Hulkenberg,Force India-Mercedes,59,+99.4 secs,11,0,2012,Singapore,14
+15,20,Heikki Kovalainen,Caterham-Renault,59,+107.9 secs,19,0,2012,Singapore,14
+16,25,Charles Pic,Marussia-Cosworth,59,+132.9 secs,21,0,2012,Singapore,14
+17,22,Pedro de la Rosa,HRT-Cosworth,58,+1 Lap,24,0,2012,Singapore,14
+18,19,Bruno Senna,Williams-Renault,57,Engine,22,0,2012,Singapore,14
+19,21,Vitaly Petrov,Caterham-Renault,57,+2 Laps,18,0,2012,Singapore,14
+Ret,17,Jean-Eric Vergne,STR-Ferrari,38,Accident,16,0,2012,Singapore,14
+Ret,7,Michael Schumacher,Mercedes,38,Accident,9,0,2012,Singapore,14
+Ret,18,Pastor Maldonado,Williams-Renault,36,Hydraulics,2,0,2012,Singapore,14
+Ret,23,Narain Karthikeyan,HRT-Cosworth,30,Accident,23,0,2012,Singapore,14
+Ret,4,Lewis Hamilton,McLaren-Mercedes,22,Gearbox,1,0,2012,Singapore,14
+1,1,Sebastian Vettel,Red Bull Racing-Renault,53,1:28:56.242,1,25,2012,Japan,15
+2,6,Felipe Massa,Ferrari,53,+20.6 secs,10,18,2012,Japan,15
+3,14,Kamui Kobayashi,Sauber-Ferrari,53,+24.5 secs,3,15,2012,Japan,15
+4,3,Jenson Button,McLaren-Mercedes,53,+25.0 secs,8,12,2012,Japan,15
+5,4,Lewis Hamilton,McLaren-Mercedes,53,+46.4 secs,9,10,2012,Japan,15
+6,9,Kimi Räikkönen,Lotus-Renault,53,+50.4 secs,7,8,2012,Japan,15
+7,12,Nico Hulkenberg,Force India-Mercedes,53,+51.1 secs,15,6,2012,Japan,15
+8,18,Pastor Maldonado,Williams-Renault,53,+52.3 secs,12,4,2012,Japan,15
+9,2,Mark Webber,Red Bull Racing-Renault,53,+54.6 secs,2,2,2012,Japan,15
+10,16,Daniel Ricciardo,STR-Ferrari,53,+66.9 secs,14,1,2012,Japan,15
+11,7,Michael Schumacher,Mercedes,53,+67.7 secs,23,0,2012,Japan,15
+12,11,Paul di Resta,Force India-Mercedes,53,+83.4 secs,11,0,2012,Japan,15
+13,17,Jean-Eric Vergne,STR-Ferrari,53,+88.6 secs,19,0,2012,Japan,15
+14,19,Bruno Senna,Williams-Renault,53,+88.7 secs,16,0,2012,Japan,15
+15,20,Heikki Kovalainen,Caterham-Renault,52,+1 Lap,17,0,2012,Japan,15
+16,24,Timo Glock,Marussia-Cosworth,52,+1 Lap,18,0,2012,Japan,15
+17,21,Vitaly Petrov,Caterham-Renault,52,+1 Lap,22,0,2012,Japan,15
+18,22,Pedro de la Rosa,HRT-Cosworth,52,+1 Lap,20,0,2012,Japan,15
+19,10,Romain Grosjean,Lotus-Renault,51,Retired,4,0,2012,Japan,15
+Ret,25,Charles Pic,Marussia-Cosworth,37,Engine,21,0,2012,Japan,15
+Ret,23,Narain Karthikeyan,HRT-Cosworth,32,Retired,24,0,2012,Japan,15
+Ret,15,Sergio Perez,Sauber-Ferrari,18,Spin,5,0,2012,Japan,15
+Ret,5,Fernando Alonso,Ferrari,0,Accident,6,0,2012,Japan,15
+Ret,8,Nico Rosberg,Mercedes,0,Accident,13,0,2012,Japan,15
+1,1,Sebastian Vettel,Red Bull Racing-Renault,55,1:36:28.651,2,25,2012,Korea,16
+2,2,Mark Webber,Red Bull Racing-Renault,55,+8.2 secs,1,18,2012,Korea,16
+3,5,Fernando Alonso,Ferrari,55,+13.9 secs,4,15,2012,Korea,16
+4,6,Felipe Massa,Ferrari,55,+20.1 secs,6,12,2012,Korea,16
+5,9,Kimi Räikkönen,Lotus-Renault,55,+36.7 secs,5,10,2012,Korea,16
+6,12,Nico Hulkenberg,Force India-Mercedes,55,+45.3 secs,8,8,2012,Korea,16
+7,10,Romain Grosjean,Lotus-Renault,55,+54.8 secs,7,6,2012,Korea,16
+8,17,Jean-Eric Vergne,STR-Ferrari,55,+69.5 secs,16,4,2012,Korea,16
+9,16,Daniel Ricciardo,STR-Ferrari,55,+71.7 secs,21,2,2012,Korea,16
+10,4,Lewis Hamilton,McLaren-Mercedes,55,+79.6 secs,3,1,2012,Korea,16
+11,15,Sergio Perez,Sauber-Ferrari,55,+80.0 secs,12,0,2012,Korea,16
+12,11,Paul di Resta,Force India-Mercedes,55,+84.4 secs,14,0,2012,Korea,16
+13,7,Michael Schumacher,Mercedes,55,+89.2 secs,10,0,2012,Korea,16
+14,18,Pastor Maldonado,Williams-Renault,55,+94.9 secs,15,0,2012,Korea,16
+15,19,Bruno Senna,Williams-Renault,55,+96.9 secs,17,0,2012,Korea,16
+16,21,Vitaly Petrov,Caterham-Renault,54,+1 Lap,18,0,2012,Korea,16
+17,20,Heikki Kovalainen,Caterham-Renault,54,+1 Lap,19,0,2012,Korea,16
+18,24,Timo Glock,Marussia-Cosworth,54,+1 Lap,20,0,2012,Korea,16
+19,25,Charles Pic,Marussia-Cosworth,53,+2 Laps,24,0,2012,Korea,16
+20,23,Narain Karthikeyan,HRT-Cosworth,53,+2 Laps,23,0,2012,Korea,16
+Ret,22,Pedro de la Rosa,HRT-Cosworth,16,Throttle,22,0,2012,Korea,16
+Ret,14,Kamui Kobayashi,Sauber-Ferrari,16,Accident damage,13,0,2012,Korea,16
+Ret,8,Nico Rosberg,Mercedes,1,Accident,9,0,2012,Korea,16
+Ret,3,Jenson Button,McLaren-Mercedes,0,Accident,11,0,2012,Korea,16
+1,1,Sebastian Vettel,Red Bull Racing-Renault,60,1:31:10.744,1,25,2012,India,17
+2,5,Fernando Alonso,Ferrari,60,+9.4 secs,5,18,2012,India,17
+3,2,Mark Webber,Red Bull Racing-Renault,60,+13.2 secs,2,15,2012,India,17
+4,4,Lewis Hamilton,McLaren-Mercedes,60,+13.9 secs,3,12,2012,India,17
+5,3,Jenson Button,McLaren-Mercedes,60,+26.2 secs,4,10,2012,India,17
+6,6,Felipe Massa,Ferrari,60,+44.6 secs,6,8,2012,India,17
+7,9,Kimi Räikkönen,Lotus-Renault,60,+45.2 secs,7,6,2012,India,17
+8,12,Nico Hulkenberg,Force India-Mercedes,60,+54.9 secs,12,4,2012,India,17
+9,10,Romain Grosjean,Lotus-Renault,60,+56.1 secs,11,2,2012,India,17
+10,19,Bruno Senna,Williams-Renault,60,+74.9 secs,13,1,2012,India,17
+11,8,Nico Rosberg,Mercedes,60,+81.6 secs,10,0,2012,India,17
+12,11,Paul di Resta,Force India-Mercedes,60,+82.8 secs,16,0,2012,India,17
+13,16,Daniel Ricciardo,STR-Ferrari,60,+86.0 secs,15,0,2012,India,17
+14,14,Kamui Kobayashi,Sauber-Ferrari,60,+86.4 secs,17,0,2012,India,17
+15,17,Jean-Eric Vergne,STR-Ferrari,59,+1 Lap,18,0,2012,India,17
+16,18,Pastor Maldonado,Williams-Renault,59,+1 Lap,9,0,2012,India,17
+17,21,Vitaly Petrov,Caterham-Renault,59,+1 Lap,19,0,2012,India,17
+18,20,Heikki Kovalainen,Caterham-Renault,59,+1 Lap,20,0,2012,India,17
+19,25,Charles Pic,Marussia-Cosworth,59,+1 Lap,24,0,2012,India,17
+20,24,Timo Glock,Marussia-Cosworth,58,+2 Laps,21,0,2012,India,17
+21,23,Narain Karthikeyan,HRT-Cosworth,58,+2 Laps,23,0,2012,India,17
+22,7,Michael Schumacher,Mercedes,55,Gearbox,14,0,2012,India,17
+Ret,22,Pedro de la Rosa,HRT-Cosworth,42,Brakes,22,0,2012,India,17
+Ret,15,Sergio Perez,Sauber-Ferrari,20,Puncture damage,8,0,2012,India,17
+1,9,Kimi Räikkönen,Lotus-Renault,55,1:45:58.667,4,25,2012,Abu Dhabi,18
+2,5,Fernando Alonso,Ferrari,55,+0.8 secs,6,18,2012,Abu Dhabi,18
+3,1,Sebastian Vettel,Red Bull Racing-Renault,55,+4.1 secs,24,15,2012,Abu Dhabi,18
+4,3,Jenson Button,McLaren-Mercedes,55,+7.7 secs,5,12,2012,Abu Dhabi,18
+5,18,Pastor Maldonado,Williams-Renault,55,+13.0 secs,3,10,2012,Abu Dhabi,18
+6,14,Kamui Kobayashi,Sauber-Ferrari,55,+20.0 secs,15,8,2012,Abu Dhabi,18
+7,6,Felipe Massa,Ferrari,55,+22.8 secs,8,6,2012,Abu Dhabi,18
+8,19,Bruno Senna,Williams-Renault,55,+23.5 secs,14,4,2012,Abu Dhabi,18
+9,11,Paul di Resta,Force India-Mercedes,55,+24.1 secs,12,2,2012,Abu Dhabi,18
+10,16,Daniel Ricciardo,STR-Ferrari,55,+27.4 secs,16,1,2012,Abu Dhabi,18
+11,7,Michael Schumacher,Mercedes,55,+28.0 secs,13,0,2012,Abu Dhabi,18
+12,17,Jean-Eric Vergne,STR-Ferrari,55,+34.9 secs,17,0,2012,Abu Dhabi,18
+13,20,Heikki Kovalainen,Caterham-Renault,55,+47.7 secs,18,0,2012,Abu Dhabi,18
+14,24,Timo Glock,Marussia-Cosworth,55,+56.4 secs,21,0,2012,Abu Dhabi,18
+15,15,Sergio Perez,Sauber-Ferrari,55,+56.7 secs,11,0,2012,Abu Dhabi,18
+16,21,Vitaly Petrov,Caterham-Renault,55,+64.5 secs,20,0,2012,Abu Dhabi,18
+17,22,Pedro de la Rosa,HRT-Cosworth,55,+71.7 secs,22,0,2012,Abu Dhabi,18
+Ret,25,Charles Pic,Marussia-Cosworth,41,Engine,19,0,2012,Abu Dhabi,18
+Ret,10,Romain Grosjean,Lotus-Renault,37,Accident,9,0,2012,Abu Dhabi,18
+Ret,2,Mark Webber,Red Bull Racing-Renault,37,Accident,2,0,2012,Abu Dhabi,18
+Ret,4,Lewis Hamilton,McLaren-Mercedes,19,Fuel pressure,1,0,2012,Abu Dhabi,18
+Ret,23,Narain Karthikeyan,HRT-Cosworth,7,Accident,23,0,2012,Abu Dhabi,18
+Ret,8,Nico Rosberg,Mercedes,7,Accident,7,0,2012,Abu Dhabi,18
+Ret,12,Nico Hulkenberg,Force India-Mercedes,0,Accident,10,0,2012,Abu Dhabi,18
+1,4,Lewis Hamilton,McLaren-Mercedes,56,1:35:55.269,2,25,2012,United States,19
+2,1,Sebastian Vettel,Red Bull Racing-Renault,56,+0.6 secs,1,18,2012,United States,19
+3,5,Fernando Alonso,Ferrari,56,+39.2 secs,7,15,2012,United States,19
+4,6,Felipe Massa,Ferrari,56,+46.0 secs,11,12,2012,United States,19
+5,3,Jenson Button,McLaren-Mercedes,56,+56.4 secs,12,10,2012,United States,19
+6,9,Kimi Räikkönen,Lotus-Renault,56,+64.4 secs,4,8,2012,United States,19
+7,10,Romain Grosjean,Lotus-Renault,56,+70.3 secs,8,6,2012,United States,19
+8,12,Nico Hulkenberg,Force India-Mercedes,56,+73.7 secs,6,4,2012,United States,19
+9,18,Pastor Maldonado,Williams-Renault,56,+74.5 secs,9,2,2012,United States,19
+10,19,Bruno Senna,Williams-Renault,56,+75.1 secs,10,1,2012,United States,19
+11,15,Sergio Perez,Sauber-Ferrari,56,+84.3 secs,15,0,2012,United States,19
+12,16,Daniel Ricciardo,STR-Ferrari,56,+84.8 secs,18,0,2012,United States,19
+13,8,Nico Rosberg,Mercedes,56,+85.5 secs,17,0,2012,United States,19
+14,14,Kamui Kobayashi,Sauber-Ferrari,55,+1 Lap,16,0,2012,United States,19
+15,11,Paul di Resta,Force India-Mercedes,55,+1 Lap,13,0,2012,United States,19
+16,7,Michael Schumacher,Mercedes,55,+1 Lap,5,0,2012,United States,19
+17,21,Vitaly Petrov,Caterham-Renault,55,+1 Lap,21,0,2012,United States,19
+18,20,Heikki Kovalainen,Caterham-Renault,55,+1 Lap,22,0,2012,United States,19
+19,24,Timo Glock,Marussia-Cosworth,55,+1 Lap,19,0,2012,United States,19
+20,25,Charles Pic,Marussia-Cosworth,54,+2 Laps,20,0,2012,United States,19
+21,22,Pedro de la Rosa,HRT-Cosworth,54,+2 Laps,23,0,2012,United States,19
+22,23,Narain Karthikeyan,HRT-Cosworth,54,+2 Laps,24,0,2012,United States,19
+Ret,2,Mark Webber,Red Bull Racing-Renault,16,Alternator,3,0,2012,United States,19
+Ret,17,Jean-Eric Vergne,STR-Ferrari,14,Suspension,14,0,2012,United States,19
+1,3,Jenson Button,McLaren-Mercedes,71,1:45:22.656,2,25,2012,Brasil,20
+2,5,Fernando Alonso,Ferrari,71,+2.7 secs,7,18,2012,Brasil,20
+3,6,Felipe Massa,Ferrari,71,+3.6 secs,5,15,2012,Brasil,20
+4,2,Mark Webber,Red Bull Racing-Renault,71,+4.9 secs,3,12,2012,Brasil,20
+5,12,Nico Hulkenberg,Force India-Mercedes,71,+5.7 secs,6,10,2012,Brasil,20
+6,1,Sebastian Vettel,Red Bull Racing-Renault,71,+9.4 secs,4,8,2012,Brasil,20
+7,7,Michael Schumacher,Mercedes,71,+11.9 secs,13,6,2012,Brasil,20
+8,17,Jean-Eric Vergne,STR-Ferrari,71,+28.6 secs,17,4,2012,Brasil,20
+9,14,Kamui Kobayashi,Sauber-Ferrari,71,+31.2 secs,14,2,2012,Brasil,20
+10,9,Kimi Räikkönen,Lotus-Renault,70,+1 Lap,8,1,2012,Brasil,20
+11,21,Vitaly Petrov,Caterham-Renault,70,+1 Lap,19,0,2012,Brasil,20
+12,25,Charles Pic,Marussia-Cosworth,70,+1 Lap,22,0,2012,Brasil,20
+13,16,Daniel Ricciardo,STR-Ferrari,70,+1 Lap,15,0,2012,Brasil,20
+14,20,Heikki Kovalainen,Caterham-Renault,70,+1 Lap,20,0,2012,Brasil,20
+15,8,Nico Rosberg,Mercedes,70,+1 Lap,9,0,2012,Brasil,20
+16,24,Timo Glock,Marussia-Cosworth,70,+1 Lap,21,0,2012,Brasil,20
+17,22,Pedro de la Rosa,HRT-Cosworth,69,+2 Laps,24,0,2012,Brasil,20
+18,23,Narain Karthikeyan,HRT-Cosworth,69,+2 Laps,23,0,2012,Brasil,20
+19,11,Paul di Resta,Force India-Mercedes,68,+3 Laps,10,0,2012,Brasil,20
+Ret,4,Lewis Hamilton,McLaren-Mercedes,54,Accident,1,0,2012,Brasil,20
+Ret,10,Romain Grosjean,Lotus-Renault,5,Accident,18,0,2012,Brasil,20
+Ret,18,Pastor Maldonado,Williams-Renault,1,Accident,16,0,2012,Brasil,20
+Ret,19,Bruno Senna,Williams-Renault,0,Accident,11,0,2012,Brasil,20
+Ret,15,Sergio Perez,Sauber-Ferrari,0,Accident,12,0,2012,Brasil,20
